@@ -1,0 +1,2120 @@
+================================================================================
+[2026-09-30 19:15:56.266119] USER QUESTION: what are the termination policies ?
+
+[2026-09-30 19:15:56.282277] RETRIEVED CONTEXT CHUNKS:
+   [Chunk 1]: Termination Policy  
+Ø In the event of any discrepancy or untrue information found in your candidature 
+or resume or documents submitted, wilful neglect of your duties, breach of trust, 
+gross indiscipline or any other serious dereliction of duties that may be 
+prejudicial to the interests of the company, or poor performance measured by 
+company, the company has the discretion to immediately terminate your services 
+forthwith or with such notice as it deems fit and without any pay whatsoever.  
+Ø You expressly acknowledge and recognize that notice period is a key condition  
+to the employment. Any payment in lieu of notice, shall be as per company 
+policy and as determined by the company in the specific circumstances.  
+Ø In the event of termination, company is not liable to provide any kind of  
+documentation or pay cheque or any settlement and have zero liability with 
+immediate effect.  
+Ø If an employee remains absent from the duty without authorization or any kind
+   [Chunk 2]: joining.  
+Ø Employee is eligible for leaves only after completion of the probation period. 
+During the probation & Training period employee will not be eligible for any 
+type of leave.  
+Ø If employee’s performance remains unsatisfactory in probation period, his/her  
+services may be terminated.  
+Ø During the period of probation, Employee’s service may be terminated  
+with/without one week’s notice or pay in lieu thereof, by the company, at its sole 
+discretion.  
+  
+MultiQoS Technologies Pvt. Ltd.  P a g e  6 | 7  
+ 
+Ø However, in case of misconduct or non-compliance of any company policies on 
+your part, your service may be terminated forthwith without any notice period by 
+the company.  
+Ø If the employee will be terminated during probation period (For any above 
+reasons), then he/she will not get any official documents from the company.  
+Exit Policy  
+Ø In the event of end of employment, one has to write an email to HR which will
+   [Chunk 3]: documentation or pay cheque or any settlement and have zero liability with 
+immediate effect.  
+Ø If an employee remains absent from the duty without authorization or any kind 
+of intimation to HR team for 3 consecutive days, it will be presumed that the 
+employee has abandoned his/her services.  
+Ø In such cases, the company will have the right to terminate the employee’s 
+service and strike off his/her name from the company. In such case, above 
+termination policy will be applicable.  
+Human resources functions owns this policy. In case of any dispute, on the policy HR or 
+Management should be contacted and the decision will be binding. For any discrepancy 
+or dispute, management’s decision will be the final one.  
+Management reserves the right to change the policy without prior notice. Any 
+deviation/exception needs to be approved by the decision-making authority.  
+** This document is intellectual property of MultiQoS Technologies Pvt Ltd. This is strictly
+
+[2026-09-30 19:16:00.017760] GENERATION PROCESS COMPLETED.
+[2026-09-30 19:16:00.017783] FINAL OUTPUT SHOWN: The company may terminate services due to discrepancies in submitted information, wilful neglect of duties, breach of trust, gross indiscipline, serious dereliction of duties, or poor performance. Termination can also occur for misconduct, non-compliance with company policies, or unauthorized absence for three consecutive days, which is considered abandonment. During probation, an employee's service may be terminated with or without one week's notice or pay in lieu, at the company's discretion. Upon termination, the company is not liable to provide any documentation, pay cheques, or settlements.
+================================================================================
+
+================================================================================
+[2026-09-30 19:16:57.819599] USER QUESTION: what are the early leave policies ?
+
+[2026-09-30 19:16:57.833977] RETRIEVED CONTEXT CHUNKS:
+   [Chunk 1]: covers National Holidays, Days of festivals, and religious interests.   
+MultiQoS Technologies Pvt. Ltd.  P a g e  3 | 7  
+ 
+Leave Policy  
+The main objective of the policy is to provide employees with guidelines regarding the 
+company’s approach to employee’s well-being, to manage absence and discourage unplanned/ 
+unauthorized leaves.  
+v Provisions of Planned (Privilege) Leave  
+Ø We always promote planned leave making sure that your work and delegation is well  
+managed before you proceed for leaves.  
+Ø All employees shall be entitled to 12 Planned Leaves as per calendar year.  
+Ø Planned will be credited quarterly. i.e., 3 leaves per 3 months.  
+Ø Unutilized leaves from the first quarter (3 months) will be carried forward in the next 
+quarter and so on.  
+Ø Planned leave will be added after completing the probation period.  
+Ø For availing half day leave, Employee has to complete 4.5 Working hours excluding
+   [Chunk 2]: quarter and so on.  
+Ø Planned leave will be added after completing the probation period.  
+Ø For availing half day leave, Employee has to complete 4.5 Working hours excluding  
+breaks. i.e., For first half leave timing is 10:00 AM to 2:30 PM and for second half leave 
+timing is 3:00 PM to 7:30 PM.  
+  
+v Process of Planned Leave  
+  
+Ø The employee has to apply leave as per the below guidelines:  
+§ The leave application has to be send in mail, 5 working days in advance for 
+leave duration of 2 days or lesser, with specific reason clearly mentioned.  
+§ The leave application has to send in mail, 12 working days in advance for leave  
+duration of 3 days and above, with specific reason clearly mentioned.  
+§ Leaves applied and availed which are not in line with guidelines of above points will  
+be treated as leave without pay(LWP) and is also subject to approval.  
+Ø Leave is subject to approval, partially or fully, first by  immediate supervisor and finally
+   [Chunk 3]: be treated as leave without pay(LWP) and is also subject to approval.  
+Ø Leave is subject to approval, partially or fully, first by  immediate supervisor and finally 
+by HR, failing to which will treated as leave without pay(LWP).  
+Ø It is solely employee’s responsibility to ensure that leaves are approved from HR & 
+immediate supervisor, before proceeding for leave.  
+Ø If the leave is rejected for any reason and still you avail the leave, the leave will be 
+considered as leave without pay (LWP) and HR team is not abide for any discussion 
+with you.  
+Ø The approved leaves shall be processed in payroll within the criteria of the defined leave  
+rules as per the policy & available leave balance   
+Ø Also, you must inform to your TL before one day ago that you are on leave for 
+the next day(s).   
+    
+MultiQoS Technologies Pvt. Ltd.  P a g e  4 | 7  
+ 
+v Provisions of Emergency/Sick Leave
+
+[2026-09-30 19:17:01.437049] GENERATION PROCESS COMPLETED.
+[2026-09-30 19:17:01.437074] FINAL OUTPUT SHOWN: The policy outlines provisions for half-day leave, which can be considered a form of early leave. To avail a half-day leave, an employee must complete 4.5 working hours, excluding breaks. Specific timings are provided for half-day leaves, such as 10:00 AM to 2:30 PM for the first half and 3:00 PM to 7:30 PM for the second half. The application process for planned leave also applies, requiring advance notice via email.
+================================================================================
+
+================================================================================
+[2026-09-30 19:17:21.923415] USER QUESTION: what are the break durations  ?
+
+[2026-09-30 19:17:21.939958] RETRIEVED CONTEXT CHUNKS:
+   [Chunk 1]: assigner. But If Punch-In time is later than 10:00 AM fourth time in a month he/she 
+will be assigned LWP and if it us fifth time than additional 0.5 LWP and so on.  
+Ø Shift timing can be changed either on a permanent or on a temporary basis depending on 
+the work requirements. HR team will take decision of your shift based on multiple 
+parameters like profile, responsibility, client etc. 
+ 
+v Breaks:  
+Ø Lunch break is 45 mins (1:15 PM to 2:00 PM)  
+Ø One additional break is 15 mins i.e. from 5:15 PM to 5:30 PM. 
+  
+v Working Hours:  
+Ø You must clock in 8 hours 30 mins every day i.e. you must have 8 hours and 30 mins as 
+your working hours.  
+Ø If your working hours (8 hours 30 mins on the development floor) are not completed 
+thrice, No LWP will be assigned. If working hours are not completed the fourth time in 
+a month, he/she will be assigned 0.5 LWP, and if it is fifth time than an additional 0.5 
+LWP and so on.
+   [Chunk 2]: MultiQoS Technologies Pvt. Ltd.  P a g e  1 | 7    
+ 
+MultiQoS Technologies Pvt. Ltd.  P a g e  2 | 7  
+
+Office Timings and Attendance  
+  
+Company believes and promotes a disciplinary life whether it is personal or professional. 
+Discipline is a way of life, where one tries to be on time and live in a systematic way.  
+ 
+v Office Timings:  
+Ø Office timing is 10.00 AM to 7.30 PM  
+Ø Here, 10:00 AM to 10:15 AM is Flexi time to accommodate delay unexpected delays in 
+reaching the office.  
+Ø You must punch in to office before/by 10.00 AM.  
+Ø 3 times late coming after 10.00 AM is allowed. Coming late fourth time and onwards will 
+be considered half day leave without pay (LWP) for each of such incident.  
+  Ex. If Punch – in time is later than 10:00 AM three times in a month No LWP 
+assigner. But If Punch-In time is later than 10:00 AM fourth time in a month he/she 
+will be assigned LWP and if it us fifth time than additional 0.5 LWP and so on.
+   [Chunk 3]: covers National Holidays, Days of festivals, and religious interests.   
+MultiQoS Technologies Pvt. Ltd.  P a g e  3 | 7  
+  
+Leave Policy  
+The main objective of the policy is to provide employees with guidelines regarding the 
+company’s approach to employee’s well-being, to manage absence and discourage unplanned/ 
+unauthorized leaves.  
+v Provisions of Planned (Privilege) Leave  
+Ø We always promote planned leave making sure that your work and delegation is well  
+managed before you proceed for leaves.  
+Ø All employees shall be entitled to 12 Planned Leaves as per calendar year.  
+Ø Planned will be credited quarterly. i.e., 3 leaves per 3 months.  
+Ø Unutilized leaves from the first quarter (3 months) will be carried forward in the next 
+quarter and so on.  
+Ø Planned leave will be added after completing the probation period.  
+Ø For availing half day leave, Employee has to complete 4.5 Working hours excluding
+
+[2026-09-30 19:17:24.381167] GENERATION PROCESS COMPLETED.
+[2026-09-30 19:17:24.381194] FINAL OUTPUT SHOWN: Employees are provided with a 45-minute lunch break, which is scheduled from 1:15 PM to 2:00 PM. Additionally, there is one extra break lasting 15 minutes, from 5:15 PM to 5:30 PM.
+================================================================================
+
+================================================================================
+[2026-09-30 19:18:01.332161] USER QUESTION: what is LWP ?
+
+[2026-09-30 19:18:01.346921] RETRIEVED CONTEXT CHUNKS:
+   [Chunk 1]: be treated as leave without pay(LWP) and is also subject to approval.  
+Ø Leave is subject to approval, partially or fully, first by  immediate supervisor and finally 
+by HR, failing to which will treated as leave without pay(LWP).  
+Ø It is solely employee’s responsibility to ensure that leaves are approved from HR & 
+immediate supervisor, before proceeding for leave.  
+Ø If the leave is rejected for any reason and still you avail the leave, the leave will be 
+considered as leave without pay (LWP) and HR team is not abide for any discussion 
+with you.  
+Ø The approved leaves shall be processed in payroll within the criteria of the defined leave  
+rules as per the policy & available leave balance   
+Ø Also, you must inform to your TL before one day ago that you are on leave for 
+the next day(s).   
+
+MultiQoS Technologies Pvt. Ltd.  P a g e  4 | 7   
+ 
+v Provisions of Emergency/Sick Leave
+   [Chunk 2]: thrice, No LWP will be assigned. If working hours are not completed the fourth time in 
+a month, he/she will be assigned 0.5 LWP, and if it is fifth time than an additional 0.5 
+LWP and so on.  
+  
+Note: It is everyone’s individual responsibility to make sure they do manage their working 
+hours on daily basis.  
+  
+Keeping in mind the work-life balance and employee well-being, the company is providing all 
+Saturday and Sunday OFF i.e., 5 Days working per week. Looking at business need, company 
+reserves the right to keep any of the Saturdays as a working day for all or a group of people. for 
+that company will compensate their working days as well. This is expected to happen in 
+exceptional cases only.  
+  
+Company also has provision for 12 days of additional holidays during the calendar year which 
+covers National Holidays, Days of festivals, and religious interests.   
+MultiQoS Technologies Pvt. Ltd.  P a g e  3 | 7  
+  
+Leave Policy
+   [Chunk 3]: assigner. But If Punch-In time is later than 10:00 AM fourth time in a month he/she 
+will be assigned LWP and if it us fifth time than additional 0.5 LWP and so on.  
+Ø Shift timing can be changed either on a permanent or on a temporary basis depending on 
+the work requirements. HR team will take decision of your shift based on multiple 
+parameters like profile, responsibility, client etc. 
+ 
+v Breaks:  
+Ø Lunch break is 45 mins (1:15 PM to 2:00 PM)  
+Ø One additional break is 15 mins i.e. from 5:15 PM to 5:30 PM. 
+  
+v Working Hours:  
+Ø You must clock in 8 hours 30 mins every day i.e. you must have 8 hours and 30 mins as 
+your working hours.  
+Ø If your working hours (8 hours 30 mins on the development floor) are not completed 
+thrice, No LWP will be assigned. If working hours are not completed the fourth time in 
+a month, he/she will be assigned 0.5 LWP, and if it is fifth time than an additional 0.5 
+LWP and so on.
+
+[2026-09-30 19:18:04.104669] GENERATION PROCESS COMPLETED.
+[2026-09-30 19:18:04.104696] FINAL OUTPUT SHOWN: LWP stands for Leave Without Pay. This designation is applied when an employee's leave is not approved, or if they avail leave despite it being rejected. It also applies if an employee fails to complete their required working hours multiple times within a month. For example, if working hours are not completed for the fourth time in a month, 0.5 LWP will be assigned.
+================================================================================
+
+================================================================================
+[2026-09-30 19:18:59.454369] USER QUESTION: what are sandwich leaves ?
+
+[2026-09-30 19:18:59.469405] RETRIEVED CONTEXT CHUNKS:
+   [Chunk 1]: v Process of Emergency Leaves  
+Ø The Employee has to apply leave as per the below guidelines:  
+• In case of any emergency/unplanned leave, Employee (By self) has to inform 
+his/her immediate supervisor by phone call only before the day’s reporting 
+hour.(For example, if shift timing is from 10:00 AM to 7:30 PM, employee 
+need to inform before 10:00 AM).  
+• If any employee does not inform as mentioned above or no update, then 
+leave will be considered as LWP. HR team is not abide to have any 
+discussion with you for the same.  
+• Employees has to make sure that leave application email should be sent to 
+immediate supervisor and HR after availing an emergency leave. If leave 
+application email is not sent, then it will be counted as LWP.   
+v General Rules for Leave  
+Ø In case leaves wrapping up the weekend, number of off days in that weekend will  
+also be considered as part of leave count (Sandwich leaves).
+   [Chunk 2]: v General Rules for Leave  
+Ø In case leaves wrapping up the weekend, number of off days in that weekend will  
+also be considered as part of leave count (Sandwich leaves).  
+Ø Any employee, who has not followed the leave process, shall be treated as LWP 
+irrespective of available leave balance. 
+v Cancellation of Leave  
+Ø The immediate supervisor and HR have sole authority to cancel the approved 
+leaves on a situational/need basis before employee actually avails the approved 
+leave. 
+Ø At the same time, an employee can cancel the approved leave for reason 
+whatsoever by giving written intimation to HR and the immediate supervisor.  
+  
+MultiQoS Technologies Pvt. Ltd.  P a g e  5 | 7  
+ 
+Appraisal Policy  
+We always appreciate the good work and dedication towards the work. We believe 
+quality work and less rework will result in more productivity.  
+Ø We have yearly appraisal cycle starting from the joining date where you will be
+   [Chunk 3]: covers National Holidays, Days of festivals, and religious interests.   
+MultiQoS Technologies Pvt. Ltd.  P a g e  3 | 7   
+  
+Leave Policy  
+The main objective of the policy is to provide employees with guidelines regarding the 
+company’s approach to employee’s well-being, to manage absence and discourage unplanned/ 
+unauthorized leaves.  
+v Provisions of Planned (Privilege) Leave  
+Ø We always promote planned leave making sure that your work and delegation is well  
+managed before you proceed for leaves.  
+Ø All employees shall be entitled to 12 Planned Leaves as per calendar year.  
+Ø Planned will be credited quarterly. i.e., 3 leaves per 3 months.  
+Ø Unutilized leaves from the first quarter (3 months) will be carried forward in the next 
+quarter and so on.  
+Ø Planned leave will be added after completing the probation period.  
+Ø For availing half day leave, Employee has to complete 4.5 Working hours excluding
+
+[2026-09-30 19:19:01.497814] GENERATION PROCESS COMPLETED.
+[2026-09-30 19:19:01.497854] FINAL OUTPUT SHOWN: Sandwich leaves refer to instances where an employee's leaves wrap around a weekend. In such cases, the number of off days during that weekend will also be included as part of the total leave count. This means that if an employee takes leave before and after a weekend, the weekend days will be counted as part of their leave.
+================================================================================
+
+================================================================================
+[2026-10-01 10:17:44.775070] USER QUESTION: what are the leave policies ?
+
+[2026-10-01 10:17:44.796780] RETRIEVED CONTEXT CHUNKS:
+   [Chunk 1]: covers National Holidays, Days of festivals, and religious interests.   
+MultiQoS Technologies Pvt. Ltd.  P a g e  3 | 7  
+  
+  
+  
+  
+  
+Leave Policy  
+The main objective of the policy is to provide employees with guidelines regarding the 
+company’s approach to employee’s well-being, to manage absence and discourage unplanned/ 
+unauthorized leaves.  
+v Provisions of Planned (Privilege) Leave  
+Ø We always promote planned leave making sure that your work and delegation is well  
+managed before you proceed for leaves.  
+Ø All employees shall be entitled to 12 Planned Leaves as per calendar year.  
+Ø Planned will be credited quarterly. i.e., 3 leaves per 3 months.  
+Ø Unutilized leaves from the first quarter (3 months) will be carried forward in the next 
+quarter and so on.  
+Ø Planned leave will be added after completing the probation period.  
+Ø For availing half day leave, Employee has to complete 4.5 Working hours excluding
+   [Chunk 2]: be treated as leave without pay(LWP) and is also subject to approval.  
+Ø Leave is subject to approval, partially or fully, first by  immediate supervisor and finally 
+by HR, failing to which will treated as leave without pay(LWP).  
+Ø It is solely employee’s responsibility to ensure that leaves are approved from HR & 
+immediate supervisor, before proceeding for leave.  
+Ø If the leave is rejected for any reason and still you avail the leave, the leave will be 
+considered as leave without pay (LWP) and HR team is not abide for any discussion 
+with you.  
+Ø The approved leaves shall be processed in payroll within the criteria of the defined leave  
+rules as per the policy & available leave balance   
+Ø Also, you must inform to your TL before one day ago that you are on leave for 
+the next day(s).   
+  
+  
+   
+MultiQoS Technologies Pvt. Ltd.  P a g e  4 | 7  
+ 
+ 
+  
+  
+ 
+v Provisions of Emergency/Sick Leave
+   [Chunk 3]: quarter and so on.  
+Ø Planned leave will be added after completing the probation period.  
+Ø For availing half day leave, Employee has to complete 4.5 Working hours excluding  
+breaks. i.e., For first half leave timing is 10:00 AM to 2:30 PM and for second half leave 
+timing is 3:00 PM to 7:30 PM.  
+  
+v Process of Planned Leave  
+  
+Ø The employee has to apply leave as per the below guidelines:  
+§ The leave application has to be send in mail, 5 working days in advance for 
+leave duration of 2 days or lesser, with specific reason clearly mentioned.  
+§ The leave application has to send in mail, 12 working days in advance for leave  
+duration of 3 days and above, with specific reason clearly mentioned.  
+§ Leaves applied and availed which are not in line with guidelines of above points will  
+be treated as leave without pay(LWP) and is also subject to approval.  
+Ø Leave is subject to approval, partially or fully, first by  immediate supervisor and finally
+
+[2026-10-01 10:17:48.873534] GENERATION PROCESS COMPLETED.
+[2026-10-01 10:17:48.873556] FINAL OUTPUT SHOWN: The main objective of the leave policy is to provide employees with guidelines for their well-being, manage absence, and discourage unplanned or unauthorized leaves. Employees are entitled to 12 Planned Leaves per calendar year, credited quarterly, which are carried forward if unutilized and added after completing probation. Applications for planned leave must be submitted 5 working days in advance for durations of 2 days or less, or 12 working days in advance for 3 days or more, and require approval from both the immediate supervisor and HR. Failure to adhere to these guidelines or obtain proper approval may result in the leave being treated as leave without pay.
+================================================================================
+
+================================================================================
+[2026-10-01 10:20:39.605655] USER QUESTION: what are the leave policies ?
+
+[2026-10-01 10:20:39.620270] RETRIEVED CONTEXT CHUNKS:
+   [Chunk 1]: covers National Holidays, Days of festivals, and religious interests.   
+MultiQoS Technologies Pvt. Ltd.  P a g e  3 | 7  
+  
+  
+  
+  
+  
+Leave Policy  
+The main objective of the policy is to provide employees with guidelines regarding the 
+company’s approach to employee’s well-being, to manage absence and discourage unplanned/ 
+unauthorized leaves.  
+v Provisions of Planned (Privilege) Leave  
+Ø We always promote planned leave making sure that your work and delegation is well  
+managed before you proceed for leaves.  
+Ø All employees shall be entitled to 12 Planned Leaves as per calendar year.  
+Ø Planned will be credited quarterly. i.e., 3 leaves per 3 months.  
+Ø Unutilized leaves from the first quarter (3 months) will be carried forward in the next 
+quarter and so on.  
+Ø Planned leave will be added after completing the probation period.  
+Ø For availing half day leave, Employee has to complete 4.5 Working hours excluding
+   [Chunk 2]: be treated as leave without pay(LWP) and is also subject to approval.  
+Ø Leave is subject to approval, partially or fully, first by  immediate supervisor and finally 
+by HR, failing to which will treated as leave without pay(LWP).  
+Ø It is solely employee’s responsibility to ensure that leaves are approved from HR & 
+immediate supervisor, before proceeding for leave.  
+Ø If the leave is rejected for any reason and still you avail the leave, the leave will be 
+considered as leave without pay (LWP) and HR team is not abide for any discussion 
+with you.  
+Ø The approved leaves shall be processed in payroll within the criteria of the defined leave  
+rules as per the policy & available leave balance   
+Ø Also, you must inform to your TL before one day ago that you are on leave for 
+the next day(s).   
+  
+  
+   
+MultiQoS Technologies Pvt. Ltd.  P a g e  4 | 7  
+ 
+ 
+  
+  
+ 
+v Provisions of Emergency/Sick Leave
+   [Chunk 3]: quarter and so on.  
+Ø Planned leave will be added after completing the probation period.  
+Ø For availing half day leave, Employee has to complete 4.5 Working hours excluding  
+breaks. i.e., For first half leave timing is 10:00 AM to 2:30 PM and for second half leave 
+timing is 3:00 PM to 7:30 PM.  
+  
+v Process of Planned Leave  
+  
+Ø The employee has to apply leave as per the below guidelines:  
+§ The leave application has to be send in mail, 5 working days in advance for 
+leave duration of 2 days or lesser, with specific reason clearly mentioned.  
+§ The leave application has to send in mail, 12 working days in advance for leave  
+duration of 3 days and above, with specific reason clearly mentioned.  
+§ Leaves applied and availed which are not in line with guidelines of above points will  
+be treated as leave without pay(LWP) and is also subject to approval.  
+Ø Leave is subject to approval, partially or fully, first by  immediate supervisor and finally
+
+[2026-10-01 10:20:43.242204] GENERATION PROCESS COMPLETED.
+[2026-10-01 10:20:43.242228] FINAL OUTPUT SHOWN: The leave policy aims to provide employees with guidelines for their well-being, manage absence, and discourage unplanned or unauthorized leaves. Employees are entitled to 12 planned leaves per calendar year, credited quarterly, which are added after completing their probation period. For planned leave, applications must be sent via email 5 working days in advance for durations of 2 days or less, or 12 working days in advance for 3 days and above, with a specific reason. All leaves are subject to approval by the immediate supervisor and HR, and unapproved leaves will be treated as leave without pay (LWP).
+================================================================================
+
+================================================================================
+[2026-10-01 10:20:43.834621] USER QUESTION: what are the leave policies ?
+
+[2026-10-01 10:20:43.853932] RETRIEVED CONTEXT CHUNKS:
+   [Chunk 1]: covers National Holidays, Days of festivals, and religious interests.   
+MultiQoS Technologies Pvt. Ltd.  P a g e  3 | 7  
+  
+  
+  
+  
+  
+Leave Policy  
+The main objective of the policy is to provide employees with guidelines regarding the 
+company’s approach to employee’s well-being, to manage absence and discourage unplanned/ 
+unauthorized leaves.  
+v Provisions of Planned (Privilege) Leave  
+Ø We always promote planned leave making sure that your work and delegation is well  
+managed before you proceed for leaves.  
+Ø All employees shall be entitled to 12 Planned Leaves as per calendar year.  
+Ø Planned will be credited quarterly. i.e., 3 leaves per 3 months.  
+Ø Unutilized leaves from the first quarter (3 months) will be carried forward in the next 
+quarter and so on.  
+Ø Planned leave will be added after completing the probation period.  
+Ø For availing half day leave, Employee has to complete 4.5 Working hours excluding
+   [Chunk 2]: be treated as leave without pay(LWP) and is also subject to approval.  
+Ø Leave is subject to approval, partially or fully, first by  immediate supervisor and finally 
+by HR, failing to which will treated as leave without pay(LWP).  
+Ø It is solely employee’s responsibility to ensure that leaves are approved from HR & 
+immediate supervisor, before proceeding for leave.  
+Ø If the leave is rejected for any reason and still you avail the leave, the leave will be 
+considered as leave without pay (LWP) and HR team is not abide for any discussion 
+with you.  
+Ø The approved leaves shall be processed in payroll within the criteria of the defined leave  
+rules as per the policy & available leave balance   
+Ø Also, you must inform to your TL before one day ago that you are on leave for 
+the next day(s).   
+  
+  
+   
+MultiQoS Technologies Pvt. Ltd.  P a g e  4 | 7  
+ 
+ 
+  
+  
+ 
+v Provisions of Emergency/Sick Leave
+   [Chunk 3]: quarter and so on.  
+Ø Planned leave will be added after completing the probation period.  
+Ø For availing half day leave, Employee has to complete 4.5 Working hours excluding  
+breaks. i.e., For first half leave timing is 10:00 AM to 2:30 PM and for second half leave 
+timing is 3:00 PM to 7:30 PM.  
+  
+v Process of Planned Leave  
+  
+Ø The employee has to apply leave as per the below guidelines:  
+§ The leave application has to be send in mail, 5 working days in advance for 
+leave duration of 2 days or lesser, with specific reason clearly mentioned.  
+§ The leave application has to send in mail, 12 working days in advance for leave  
+duration of 3 days and above, with specific reason clearly mentioned.  
+§ Leaves applied and availed which are not in line with guidelines of above points will  
+be treated as leave without pay(LWP) and is also subject to approval.  
+Ø Leave is subject to approval, partially or fully, first by  immediate supervisor and finally
+
+[2026-10-01 10:20:47.822105] GENERATION PROCESS COMPLETED.
+[2026-10-01 10:20:47.822129] FINAL OUTPUT SHOWN: The leave policy at MultiQoS Technologies Pvt. Ltd. aims to provide employees with guidelines regarding their well-being, manage absence, and discourage unplanned or unauthorized leaves. Employees are entitled to 12 planned leaves per calendar year, credited quarterly, which are added after completing the probation period. All leaves require approval from both the immediate supervisor and HR; failure to obtain approval will result in the leave being treated as leave without pay (LWP). For planned leaves, employees must apply via email 5 working days in advance for durations of 2 days or less, or 12 working days in advance for 3 days or more.
+================================================================================
+
+================================================================================
+[2026-10-01 10:20:51.095997] USER QUESTION: what are the leave policies ?
+
+[2026-10-01 10:20:51.111560] RETRIEVED CONTEXT CHUNKS:
+   [Chunk 1]: 
+*args and **kwargs
+
+Return statement, multiple return values
+
+Scope of variables (local vs global)
+
+Lambda functions
+
+Recursion basics
+1.3 Arithmetic / Comparison / Logical Operators
+
+Arithmetic operators: +, -, *, /, //, %, **
+
+Comparison operators: ==, !=, >, <, >=, <=
+
+Logical operators: and, or, not
+
+Operator precedence
+
+Assignment operators (+=, -=, etc.)
+
+Membership operators (in, not in)
+
+Identity operators (is, is not)
+1.4 String Formatting
+
+String slicing and indexing
+
+String methods (split, join, strip, replace, find, etc.)
+
+f-strings
+
+.format() method
+
+% formatting (legacy)
+
+Escape sequences
+2. Generic OOPs Concepts (3–4 Days)
+2.1 Class and Object & Types of OOPs
+
+What is a Class, what is an Object
+
+__init__ constructor
+
+self keyword
+
+Instance variables vs Class variables
+
+Instance methods, Class methods (@classmethod), Static methods (@staticmethod)
+
+Overview of the four OOPs pillars: Inheritance, Encapsulation, Abstraction, Polymorphism
+   [Chunk 2]: 
+Instance methods, Class methods (@classmethod), Static methods (@staticmethod)
+
+Overview of the four OOPs pillars: Inheritance, Encapsulation, Abstraction, Polymorphism
+2.2 Inheritance
+
+Single inheritance
+
+Multiple inheritance
+
+Multilevel inheritance
+
+Method Overriding
+
+super() keyword
+
+MRO (Method Resolution Order) – basic idea
+2.3 Encapsulation
+
+Public, Protected (_var), Private (__var) members
+
+Getter and Setter methods
+
+Why encapsulation matters (data hiding)
+2.4 Data Abstraction
+
+Abstract classes (using abc module)
+
+Abstract methods
+
+Difference between Abstraction and Encapsulation
+2.5 Polymorphism
+
+Method Overloading (concept, Python's approach via default arguments)
+
+Method Overriding (revisit with example)
+
+Duck typing in Python
+
+Operator overloading (dunder methods like __add__, __str__)
+3. General Knowledge
+3.1 SSH
+
+What is SSH and why it is used
+
+Connecting to remote servers (ssh user@host)
+
+SSH key generation (ssh-keygen)
+
+Copying keys (ssh-copy-id)
+   [Chunk 3]: 3. General Knowledge
+3.1 SSH
+
+What is SSH and why it is used
+
+Connecting to remote servers (ssh user@host)
+
+SSH key generation (ssh-keygen)
+
+Copying keys (ssh-copy-id)
+
+Basic SCP for file transfer
+3.2 GIT
+
+What is Version Control
+
+git init, clone, add, commit, push, pull
+
+Branching (branch, checkout, merge)
+
+git status, git log, git diff
+
+Resolving merge conflicts (basic)
+
+.gitignore usage
+3.3 Jupyter
+
+Installing and launching Jupyter Notebook / Lab
+
+Cells (code vs markdown)
+
+Kernel basics, restart / run all
+
+Useful shortcuts
+
+Magic commands (%time, %matplotlib inline, etc.)
+3.4 Install Libraries, Making VENVs
+
+pip install / pip uninstall / pip list
+
+requirements.txt (generating and installing from)
+
+Creating virtual environments (venv, conda)
+
+Activating / deactivating environments
+
+Why virtual environments are important
+3.5 Basic Linux Commands
+
+Navigation: ls, cd, pwd
+
+File handling: touch, mkdir, rm, cp, mv
+
+Viewing files: cat, head, tail, less
+
+
+[2026-10-01 10:20:53.531005] GENERATION PROCESS COMPLETED.
+[2026-10-01 10:20:53.531030] FINAL OUTPUT SHOWN: I apologize, but the provided context does not contain any information regarding leave policies. The context covers topics such as Python programming concepts, Object-Oriented Programming (OOPs), SSH, GIT, Jupyter, virtual environments, and basic Linux commands. Therefore, I cannot answer your question based on the given information.
+================================================================================
+
+================================================================================
+[2026-10-01 10:21:14.118534] USER QUESTION: what is the structuire/flow for deep learning secction ?
+
+[2026-10-01 10:21:14.134813] RETRIEVED CONTEXT CHUNKS:
+   [Chunk 1]: 
+Multi-Layer Perceptron (MLP)
+
+Structure of a Neural Network: Input layer, Hidden layer(s), Output layer
+
+Weights, Biases, Summation function
+
+Forward Propagation – step by step working
+
+Backpropagation – chain rule intuition, gradient computation
+
+Epoch, Batch, Iteration – key training concepts
+6.2 Types of Neural Network Architectures (Overview)
+Basic conceptual introduction to the major architecture families – in-depth model study happens later
+(Computer Vision / NLP stages).
+
+ANN (Artificial Neural Network) – basic fully-connected feedforward network
+
+CNN (Convolutional Neural Network) – convolution, pooling, use in image data (basic idea only)
+
+RNN (Recurrent Neural Network) – handling sequential/time-series data, hidden state concept
+
+LSTM (Long Short-Term Memory) – solving RNN's long-term dependency problem (brief idea)
+
+GRU (Gated Recurrent Unit) – simplified alternative to LSTM (brief idea)
+
+   [Chunk 2]: 
+LSTM (Long Short-Term Memory) – solving RNN's long-term dependency problem (brief idea)
+
+GRU (Gated Recurrent Unit) – simplified alternative to LSTM (brief idea)
+
+Autoencoder – encoder-decoder structure, use in dimensionality reduction/reconstruction
+
+GAN (Generative Adversarial Network) – Generator vs Discriminator concept (brief intro)
+
+Transformer – attention mechanism concept (brief intro, foundation for NLP stage)
+6.3 Activation Functions
+
+Sigmoid
+
+Tanh
+
+ReLU (Rectified Linear Unit)
+
+Leaky ReLU
+
+Softmax (used in output layer for multiclass classification)
+
+Vanishing gradient problem – introduction and why activation choice matters
+6.4 Optimizers
+
+Gradient Descent: Batch, Stochastic (SGD), Mini-batch
+
+Momentum
+
+Adagrad
+
+RMSprop
+
+Adam
+
+Learning rate and its impact on training
+6.5 Loss Functions in Deep Learning
+
+MSE (for regression tasks using neural networks)
+
+Binary Cross-Entropy (for binary classification)
+
+   [Chunk 3]: 
+RMSprop
+
+Adam
+
+Learning rate and its impact on training
+6.5 Loss Functions in Deep Learning
+
+MSE (for regression tasks using neural networks)
+
+Binary Cross-Entropy (for binary classification)
+
+Categorical Cross-Entropy (for multiclass classification)
+
+How DL loss functions relate to the ML loss functions covered in Section 5.5
+6.6 Regularization & Normalization Techniques
+
+Batch Normalization – purpose and working
+
+Dropout – purpose and how it prevents overfitting
+
+L1 / L2 regularization in a DL context
+
+Early stopping
+6.7 Model Evaluation & Training Basics
+
+Overfitting vs Underfitting
+
+Train / Validation / Test split
+
+Reading learning curves (loss/accuracy vs epochs)
+Note: Day counts for each section should follow the original SOP schedule (Data Analysis, Basic ML, Basic DL
+durations as per plan).
+
+[2026-10-01 10:21:17.371610] GENERATION PROCESS COMPLETED.
+[2026-10-01 10:21:17.371635] FINAL OUTPUT SHOWN: The deep learning section begins by introducing the Multi-Layer Perceptron (MLP) and the fundamental structure of a neural network, including concepts like weights, biases, forward propagation, and backpropagation. It then covers key training concepts such as epoch, batch, and iteration, followed by an overview of various neural network architectures like CNN, RNN, LSTM, and Transformers. The section further details activation functions, optimizers, and loss functions essential for deep learning models. Finally, it explores regularization and normalization techniques, along with basic principles of model evaluation and training.
+================================================================================
+
+================================================================================
+[2026-10-02 12:52:19.480322] USER QUESTION: If I reach the office at 10:10 AM, is that still within the allowed arrival window?
+
+[2026-10-02 12:52:19.512759] RETRIEVED CONTEXT CHUNKS:
+   [Chunk 1]: v Process of Emergency Leaves  
+Ø The Employee has to apply leave as per the below guidelines:  
+• In case of any emergency/unplanned leave, Employee (By self) has to inform 
+his/her immediate supervisor by phone call only before the day’s reporting 
+hour.(For example, if shift timing is from 10:00 AM to 7:30 PM, employee 
+need to inform before 10:00 AM).  
+• If any employee does not inform as mentioned above or no update, then 
+leave will be considered as LWP. HR team is not abide to have any 
+discussion with you for the same.  
+• Employees has to make sure that leave application email should be sent to 
+immediate supervisor and HR after availing an emergency leave. If leave 
+application email is not sent, then it will be counted as LWP.   
+v General Rules for Leave  
+Ø In case leaves wrapping up the weekend, number of off days in that weekend will  
+also be considered as part of leave count (Sandwich leaves).
+   [Chunk 2]: MultiQoS Technologies Pvt. Ltd.  P a g e  1 | 7    
+ 
+MultiQoS Technologies Pvt. Ltd.  P a g e  2 | 7  
+  
+  
+  
+  
+  
+  
+  
+Office Timings and Attendance  
+  
+Company believes and promotes a disciplinary life whether it is personal or professional. 
+Discipline is a way of life, where one tries to be on time and live in a systematic way.  
+ 
+v Office Timings:  
+Ø Office timing is 10.00 AM to 7.30 PM  
+Ø Here, 10:00 AM to 10:15 AM is Flexi time to accommodate delay unexpected delays in 
+reaching the office.  
+Ø You must punch in to office before/by 10.00 AM.  
+Ø 3 times late coming after 10.00 AM is allowed. Coming late fourth time and onwards will 
+be considered half day leave without pay (LWP) for each of such incident.  
+  Ex. If Punch – in time is later than 10:00 AM three times in a month No LWP 
+assigner. But If Punch-In time is later than 10:00 AM fourth time in a month he/she 
+will be assigned LWP and if it us fifth time than additional 0.5 LWP and so on.
+   [Chunk 3]: assigner. But If Punch-In time is later than 10:00 AM fourth time in a month he/she 
+will be assigned LWP and if it us fifth time than additional 0.5 LWP and so on.  
+Ø Shift timing can be changed either on a permanent or on a temporary basis depending on 
+the work requirements. HR team will take decision of your shift based on multiple 
+parameters like profile, responsibility, client etc. 
+ 
+v Breaks:  
+Ø Lunch break is 45 mins (1:15 PM to 2:00 PM)  
+Ø One additional break is 15 mins i.e. from 5:15 PM to 5:30 PM. 
+  
+v Working Hours:  
+Ø You must clock in 8 hours 30 mins every day i.e. you must have 8 hours and 30 mins as 
+your working hours.  
+Ø If your working hours (8 hours 30 mins on the development floor) are not completed 
+thrice, No LWP will be assigned. If working hours are not completed the fourth time in 
+a month, he/she will be assigned 0.5 LWP, and if it is fifth time than an additional 0.5 
+LWP and so on.
+
+[2026-10-02 12:52:25.460812] GENERATION PROCESS COMPLETED.
+[2026-10-02 12:52:25.460836] FINAL OUTPUT SHOWN: While 10:00 AM to 10:15 AM is designated as Flexi time for unexpected delays, the official policy requires employees to punch in before or by 10:00 AM. Therefore, arriving at 10:10 AM is considered late. However, employees are allowed three instances of late coming after 10:00 AM in a month without penalty. A fourth instance of late arrival will result in a half-day Leave Without Pay (LWP).
+================================================================================
+
+================================================================================
+[2026-10-02 12:53:15.204072] USER QUESTION: How many hours am I expected to work each day?
+
+[2026-10-02 12:53:15.217821] RETRIEVED CONTEXT CHUNKS:
+   [Chunk 1]: thrice, No LWP will be assigned. If working hours are not completed the fourth time in 
+a month, he/she will be assigned 0.5 LWP, and if it is fifth time than an additional 0.5 
+LWP and so on.  
+  
+Note: It is everyone’s individual responsibility to make sure they do manage their working 
+hours on daily basis.  
+  
+Keeping in mind the work-life balance and employee well-being, the company is providing all 
+Saturday and Sunday OFF i.e., 5 Days working per week. Looking at business need, company 
+reserves the right to keep any of the Saturdays as a working day for all or a group of people. for 
+that company will compensate their working days as well. This is expected to happen in 
+exceptional cases only.  
+  
+Company also has provision for 12 days of additional holidays during the calendar year which 
+covers National Holidays, Days of festivals, and religious interests.   
+MultiQoS Technologies Pvt. Ltd.  P a g e  3 | 7  
+  
+  
+  
+  
+  
+Leave Policy
+   [Chunk 2]: assigner. But If Punch-In time is later than 10:00 AM fourth time in a month he/she 
+will be assigned LWP and if it us fifth time than additional 0.5 LWP and so on.  
+Ø Shift timing can be changed either on a permanent or on a temporary basis depending on 
+the work requirements. HR team will take decision of your shift based on multiple 
+parameters like profile, responsibility, client etc. 
+ 
+v Breaks:  
+Ø Lunch break is 45 mins (1:15 PM to 2:00 PM)  
+Ø One additional break is 15 mins i.e. from 5:15 PM to 5:30 PM. 
+  
+v Working Hours:  
+Ø You must clock in 8 hours 30 mins every day i.e. you must have 8 hours and 30 mins as 
+your working hours.  
+Ø If your working hours (8 hours 30 mins on the development floor) are not completed 
+thrice, No LWP will be assigned. If working hours are not completed the fourth time in 
+a month, he/she will be assigned 0.5 LWP, and if it is fifth time than an additional 0.5 
+LWP and so on.
+   [Chunk 3]: MultiQoS Technologies Pvt. Ltd.  P a g e  1 | 7    
+ 
+MultiQoS Technologies Pvt. Ltd.  P a g e  2 | 7  
+  
+  
+  
+  
+  
+  
+  
+Office Timings and Attendance  
+  
+Company believes and promotes a disciplinary life whether it is personal or professional. 
+Discipline is a way of life, where one tries to be on time and live in a systematic way.  
+ 
+v Office Timings:  
+Ø Office timing is 10.00 AM to 7.30 PM  
+Ø Here, 10:00 AM to 10:15 AM is Flexi time to accommodate delay unexpected delays in 
+reaching the office.  
+Ø You must punch in to office before/by 10.00 AM.  
+Ø 3 times late coming after 10.00 AM is allowed. Coming late fourth time and onwards will 
+be considered half day leave without pay (LWP) for each of such incident.  
+  Ex. If Punch – in time is later than 10:00 AM three times in a month No LWP 
+assigner. But If Punch-In time is later than 10:00 AM fourth time in a month he/she 
+will be assigned LWP and if it us fifth time than additional 0.5 LWP and so on.
+
+[2026-10-02 12:53:17.060526] GENERATION PROCESS COMPLETED.
+[2026-10-02 12:53:17.060551] FINAL OUTPUT SHOWN: You are expected to work 8 hours and 30 minutes each day. This includes the time you must clock in on the development floor. It is your individual responsibility to manage your working hours daily.
+================================================================================
+
+================================================================================
+[2026-10-02 12:53:48.242326] USER QUESTION: How long is the initial trial period after joining?
+
+[2026-10-02 12:53:48.254502] RETRIEVED CONTEXT CHUNKS:
+   [Chunk 1]: will have appraisal cycle from next month.  
+Ø With your appraisal, you would be entitled to serve the company for at least 6  
+months starting from the effective appraisal month.  
+Ø No resignation will be accepted for 6 months from your appraisal date and doing  
+so will be considered the breach of company appraisal policy where by your 
+appraisal salary (Increment amount) will be forfeit and the amount will be 
+adjusted in Full & Final settlement.  
+Ø If the performance is not up to the mark or in any other case, HR team reserves  
+the rights to postpone your appraisal for specific duration decided by the HR 
+team, which will be communicated to you in advance.  
+ 
+Probation Policy  
+Ø Employee will be on probation for the period of 3 months from the date of 
+joining.  
+Ø Employee is eligible for leaves only after completion of the probation period. 
+During the probation & Training period employee will not be eligible for any 
+type of leave.
+   [Chunk 2]: quality work and less rework will result in more productivity.  
+Ø We have yearly appraisal cycle starting from the joining date where you will be  
+appraised in salary and/or designation and/or responsibilities based on your past 
+year performance, potential to perform in coming year and the skillsets you have 
+newly adopted.   
+Ø To be eligible to have salary appraisal, one MUST complete 12 working months  
+into the company. This excludes extended leaves or any other reasons.  
+Ø Performance evaluation will be derived on multiple criteria which includes  
+evaluation matrix, input of your immediate supervisor as well as colleagues and 
+HR team.  
+Ø Candidate who has joined 15 of the month or before that will have appraisal 
+cycle from the same month. Candidate who has joined after 15 of month that 
+will have appraisal cycle from next month.  
+Ø With your appraisal, you would be entitled to serve the company for at least 6  
+months starting from the effective appraisal month.
+   [Chunk 3]: quarter and so on.  
+Ø Planned leave will be added after completing the probation period.  
+Ø For availing half day leave, Employee has to complete 4.5 Working hours excluding  
+breaks. i.e., For first half leave timing is 10:00 AM to 2:30 PM and for second half leave 
+timing is 3:00 PM to 7:30 PM.  
+  
+v Process of Planned Leave  
+  
+Ø The employee has to apply leave as per the below guidelines:  
+§ The leave application has to be send in mail, 5 working days in advance for 
+leave duration of 2 days or lesser, with specific reason clearly mentioned.  
+§ The leave application has to send in mail, 12 working days in advance for leave  
+duration of 3 days and above, with specific reason clearly mentioned.  
+§ Leaves applied and availed which are not in line with guidelines of above points will  
+be treated as leave without pay(LWP) and is also subject to approval.  
+Ø Leave is subject to approval, partially or fully, first by  immediate supervisor and finally
+
+[2026-10-02 12:53:50.172631] GENERATION PROCESS COMPLETED.
+[2026-10-02 12:53:50.172655] FINAL OUTPUT SHOWN: Employees will be on probation for a period of 3 months from their date of joining. During this initial trial period, employees are not eligible for any type of leave, including planned leaves. Eligibility for leaves begins only after the completion of the probation period.
+================================================================================
+
+================================================================================
+[2026-10-02 12:58:28.080308] USER QUESTION: I was late three times this month but never after that. Will I lose pay because of those delays?
+
+[2026-10-02 12:58:28.097721] RETRIEVED CONTEXT CHUNKS:
+   [Chunk 1]: MultiQoS Technologies Pvt. Ltd.  P a g e  1 | 7    
+ 
+MultiQoS Technologies Pvt. Ltd.  P a g e  2 | 7  
+  
+  
+  
+  
+  
+  
+  
+Office Timings and Attendance  
+  
+Company believes and promotes a disciplinary life whether it is personal or professional. 
+Discipline is a way of life, where one tries to be on time and live in a systematic way.  
+ 
+v Office Timings:  
+Ø Office timing is 10.00 AM to 7.30 PM  
+Ø Here, 10:00 AM to 10:15 AM is Flexi time to accommodate delay unexpected delays in 
+reaching the office.  
+Ø You must punch in to office before/by 10.00 AM.  
+Ø 3 times late coming after 10.00 AM is allowed. Coming late fourth time and onwards will 
+be considered half day leave without pay (LWP) for each of such incident.  
+  Ex. If Punch – in time is later than 10:00 AM three times in a month No LWP 
+assigner. But If Punch-In time is later than 10:00 AM fourth time in a month he/she 
+will be assigned LWP and if it us fifth time than additional 0.5 LWP and so on.
+   [Chunk 2]: Termination Policy  
+Ø In the event of any discrepancy or untrue information found in your candidature 
+or resume or documents submitted, wilful neglect of your duties, breach of trust, 
+gross indiscipline or any other serious dereliction of duties that may be 
+prejudicial to the interests of the company, or poor performance measured by 
+company, the company has the discretion to immediately terminate your services 
+forthwith or with such notice as it deems fit and without any pay whatsoever.  
+Ø You expressly acknowledge and recognize that notice period is a key condition  
+to the employment. Any payment in lieu of notice, shall be as per company 
+policy and as determined by the company in the specific circumstances.  
+Ø In the event of termination, company is not liable to provide any kind of  
+documentation or pay cheque or any settlement and have zero liability with 
+immediate effect.  
+Ø If an employee remains absent from the duty without authorization or any kind
+   [Chunk 3]: thrice, No LWP will be assigned. If working hours are not completed the fourth time in 
+a month, he/she will be assigned 0.5 LWP, and if it is fifth time than an additional 0.5 
+LWP and so on.  
+  
+Note: It is everyone’s individual responsibility to make sure they do manage their working 
+hours on daily basis.  
+  
+Keeping in mind the work-life balance and employee well-being, the company is providing all 
+Saturday and Sunday OFF i.e., 5 Days working per week. Looking at business need, company 
+reserves the right to keep any of the Saturdays as a working day for all or a group of people. for 
+that company will compensate their working days as well. This is expected to happen in 
+exceptional cases only.  
+  
+Company also has provision for 12 days of additional holidays during the calendar year which 
+covers National Holidays, Days of festivals, and religious interests.   
+MultiQoS Technologies Pvt. Ltd.  P a g e  3 | 7  
+  
+  
+  
+  
+  
+Leave Policy
+
+[2026-10-02 12:58:30.800935] GENERATION PROCESS COMPLETED.
+[2026-10-02 12:58:30.800966] FINAL OUTPUT SHOWN: No, you will not lose pay for being late three times this month. The company policy allows for three instances of late coming after 10:00 AM without assigning Leave Without Pay (LWP). LWP is only assigned from the fourth late incident onwards.
+================================================================================
+
+================================================================================
+[2026-10-02 12:59:07.636217] USER QUESTION: I need to be away for four days. Can I just tell my manager a couple of days before?
+
+[2026-10-02 12:59:07.651404] RETRIEVED CONTEXT CHUNKS:
+   [Chunk 1]: v Process of Emergency Leaves  
+Ø The Employee has to apply leave as per the below guidelines:  
+• In case of any emergency/unplanned leave, Employee (By self) has to inform 
+his/her immediate supervisor by phone call only before the day’s reporting 
+hour.(For example, if shift timing is from 10:00 AM to 7:30 PM, employee 
+need to inform before 10:00 AM).  
+• If any employee does not inform as mentioned above or no update, then 
+leave will be considered as LWP. HR team is not abide to have any 
+discussion with you for the same.  
+• Employees has to make sure that leave application email should be sent to 
+immediate supervisor and HR after availing an emergency leave. If leave 
+application email is not sent, then it will be counted as LWP.   
+v General Rules for Leave  
+Ø In case leaves wrapping up the weekend, number of off days in that weekend will  
+also be considered as part of leave count (Sandwich leaves).
+   [Chunk 2]: covers National Holidays, Days of festivals, and religious interests.   
+MultiQoS Technologies Pvt. Ltd.  P a g e  3 | 7  
+  
+  
+  
+  
+  
+Leave Policy  
+The main objective of the policy is to provide employees with guidelines regarding the 
+company’s approach to employee’s well-being, to manage absence and discourage unplanned/ 
+unauthorized leaves.  
+v Provisions of Planned (Privilege) Leave  
+Ø We always promote planned leave making sure that your work and delegation is well  
+managed before you proceed for leaves.  
+Ø All employees shall be entitled to 12 Planned Leaves as per calendar year.  
+Ø Planned will be credited quarterly. i.e., 3 leaves per 3 months.  
+Ø Unutilized leaves from the first quarter (3 months) will be carried forward in the next 
+quarter and so on.  
+Ø Planned leave will be added after completing the probation period.  
+Ø For availing half day leave, Employee has to complete 4.5 Working hours excluding
+   [Chunk 3]: quarter and so on.  
+Ø Planned leave will be added after completing the probation period.  
+Ø For availing half day leave, Employee has to complete 4.5 Working hours excluding  
+breaks. i.e., For first half leave timing is 10:00 AM to 2:30 PM and for second half leave 
+timing is 3:00 PM to 7:30 PM.  
+  
+v Process of Planned Leave  
+  
+Ø The employee has to apply leave as per the below guidelines:  
+§ The leave application has to be send in mail, 5 working days in advance for 
+leave duration of 2 days or lesser, with specific reason clearly mentioned.  
+§ The leave application has to send in mail, 12 working days in advance for leave  
+duration of 3 days and above, with specific reason clearly mentioned.  
+§ Leaves applied and availed which are not in line with guidelines of above points will  
+be treated as leave without pay(LWP) and is also subject to approval.  
+Ø Leave is subject to approval, partially or fully, first by  immediate supervisor and finally
+
+[2026-10-02 12:59:09.995784] GENERATION PROCESS COMPLETED.
+[2026-10-02 12:59:09.995809] FINAL OUTPUT SHOWN: No, for a leave duration of three days or more, you must send your leave application via email 12 working days in advance. Since you plan to be away for four days, this longer notice period applies. The application should also clearly state the specific reason for your absence. Failure to follow these guidelines may result in the leave being treated as leave without pay.
+================================================================================
+
+================================================================================
+[2026-10-02 13:00:19.522943] USER QUESTION: I have unused planned leave from one quarter. Does it disappear when the next quarter begins?
+
+[2026-10-02 13:00:19.540583] RETRIEVED CONTEXT CHUNKS:
+   [Chunk 1]: covers National Holidays, Days of festivals, and religious interests.   
+MultiQoS Technologies Pvt. Ltd.  P a g e  3 | 7  
+  
+  
+  
+  
+  
+Leave Policy  
+The main objective of the policy is to provide employees with guidelines regarding the 
+company’s approach to employee’s well-being, to manage absence and discourage unplanned/ 
+unauthorized leaves.  
+v Provisions of Planned (Privilege) Leave  
+Ø We always promote planned leave making sure that your work and delegation is well  
+managed before you proceed for leaves.  
+Ø All employees shall be entitled to 12 Planned Leaves as per calendar year.  
+Ø Planned will be credited quarterly. i.e., 3 leaves per 3 months.  
+Ø Unutilized leaves from the first quarter (3 months) will be carried forward in the next 
+quarter and so on.  
+Ø Planned leave will be added after completing the probation period.  
+Ø For availing half day leave, Employee has to complete 4.5 Working hours excluding
+   [Chunk 2]: the next day(s).   
+  
+  
+   
+MultiQoS Technologies Pvt. Ltd.  P a g e  4 | 7  
+ 
+ 
+  
+  
+ 
+v Provisions of Emergency/Sick Leave  
+Ø We always hope that all employees will take care of their Health. So, the Company is 
+adding Emergency/Sick leave. 
+Ø All employees shall be entitled to 4 Emergency/Sick leave as per calendar year.  
+Ø Emergency/Sick leave will be credited quarterly. i.e. 1 leave per 3 months.  
+Ø Unutilized leaves from the first quarter (3 months) will be carried forward in the next 
+quarter and so on.  
+Ø Employees will take one emergency/sick leave per quarter and take another 
+emergency/sick leave in the same quarter will count as LWP leaves. 
+Ø Emergency/Sick leave will be added after completing the probation period.  
+ 
+v Process of Emergency Leaves  
+Ø The Employee has to apply leave as per the below guidelines:  
+• In case of any emergency/unplanned leave, Employee (By self) has to inform
+   [Chunk 3]: quarter and so on.  
+Ø Planned leave will be added after completing the probation period.  
+Ø For availing half day leave, Employee has to complete 4.5 Working hours excluding  
+breaks. i.e., For first half leave timing is 10:00 AM to 2:30 PM and for second half leave 
+timing is 3:00 PM to 7:30 PM.  
+  
+v Process of Planned Leave  
+  
+Ø The employee has to apply leave as per the below guidelines:  
+§ The leave application has to be send in mail, 5 working days in advance for 
+leave duration of 2 days or lesser, with specific reason clearly mentioned.  
+§ The leave application has to send in mail, 12 working days in advance for leave  
+duration of 3 days and above, with specific reason clearly mentioned.  
+§ Leaves applied and availed which are not in line with guidelines of above points will  
+be treated as leave without pay(LWP) and is also subject to approval.  
+Ø Leave is subject to approval, partially or fully, first by  immediate supervisor and finally
+
+[2026-10-02 13:00:22.324510] GENERATION PROCESS COMPLETED.
+[2026-10-02 13:00:22.324534] FINAL OUTPUT SHOWN: No, your unused planned leave from one quarter will not disappear. Unutilized leaves from the first quarter (3 months) will be carried forward into the next quarter. This process continues, ensuring that your accrued planned leave is retained.
+================================================================================
+
+================================================================================
+[2026-10-02 13:01:17.361976] USER QUESTION: I joined on the 20th. Does my appraisal cycle begin that same month?
+
+[2026-10-02 13:01:17.376615] RETRIEVED CONTEXT CHUNKS:
+   [Chunk 1]: quality work and less rework will result in more productivity.  
+Ø We have yearly appraisal cycle starting from the joining date where you will be  
+appraised in salary and/or designation and/or responsibilities based on your past 
+year performance, potential to perform in coming year and the skillsets you have 
+newly adopted.   
+Ø To be eligible to have salary appraisal, one MUST complete 12 working months  
+into the company. This excludes extended leaves or any other reasons.  
+Ø Performance evaluation will be derived on multiple criteria which includes  
+evaluation matrix, input of your immediate supervisor as well as colleagues and 
+HR team.  
+Ø Candidate who has joined 15 of the month or before that will have appraisal 
+cycle from the same month. Candidate who has joined after 15 of month that 
+will have appraisal cycle from next month.  
+Ø With your appraisal, you would be entitled to serve the company for at least 6  
+months starting from the effective appraisal month.
+   [Chunk 2]: will have appraisal cycle from next month.  
+Ø With your appraisal, you would be entitled to serve the company for at least 6  
+months starting from the effective appraisal month.  
+Ø No resignation will be accepted for 6 months from your appraisal date and doing  
+so will be considered the breach of company appraisal policy where by your 
+appraisal salary (Increment amount) will be forfeit and the amount will be 
+adjusted in Full & Final settlement.  
+Ø If the performance is not up to the mark or in any other case, HR team reserves  
+the rights to postpone your appraisal for specific duration decided by the HR 
+team, which will be communicated to you in advance.  
+ 
+Probation Policy  
+Ø Employee will be on probation for the period of 3 months from the date of 
+joining.  
+Ø Employee is eligible for leaves only after completion of the probation period. 
+During the probation & Training period employee will not be eligible for any 
+type of leave.
+   [Chunk 3]: v General Rules for Leave  
+Ø In case leaves wrapping up the weekend, number of off days in that weekend will  
+also be considered as part of leave count (Sandwich leaves).  
+Ø Any employee, who has not followed the leave process, shall be treated as LWP 
+irrespective of available leave balance. 
+v Cancellation of Leave  
+Ø The immediate supervisor and HR have sole authority to cancel the approved 
+leaves on a situational/need basis before employee actually avails the approved 
+leave. 
+Ø At the same time, an employee can cancel the approved leave for reason 
+whatsoever by giving written intimation to HR and the immediate supervisor.  
+  
+MultiQoS Technologies Pvt. Ltd.  P a g e  5 | 7  
+ 
+ 
+ 
+ 
+Appraisal Policy  
+We always appreciate the good work and dedication towards the work. We believe 
+quality work and less rework will result in more productivity.  
+Ø We have yearly appraisal cycle starting from the joining date where you will be
+
+[2026-10-02 13:01:19.602459] GENERATION PROCESS COMPLETED.
+[2026-10-02 13:01:19.602485] FINAL OUTPUT SHOWN: No, your appraisal cycle will not begin in the same month you joined. According to company policy, candidates who join after the 15th of the month will have their appraisal cycle start from the next month. Since you joined on the 20th, your appraisal cycle will commence the following month.
+================================================================================
+
+================================================================================
+[2026-10-02 13:02:01.782768] USER QUESTION: I've completed exactly one year with the company, but I had an extended leave. Am I automatically eligible for a salary increase?
+
+[2026-10-02 13:02:01.797929] RETRIEVED CONTEXT CHUNKS:
+   [Chunk 1]: the next day(s).   
+  
+  
+   
+MultiQoS Technologies Pvt. Ltd.  P a g e  4 | 7  
+ 
+ 
+  
+  
+ 
+v Provisions of Emergency/Sick Leave  
+Ø We always hope that all employees will take care of their Health. So, the Company is 
+adding Emergency/Sick leave. 
+Ø All employees shall be entitled to 4 Emergency/Sick leave as per calendar year.  
+Ø Emergency/Sick leave will be credited quarterly. i.e. 1 leave per 3 months.  
+Ø Unutilized leaves from the first quarter (3 months) will be carried forward in the next 
+quarter and so on.  
+Ø Employees will take one emergency/sick leave per quarter and take another 
+emergency/sick leave in the same quarter will count as LWP leaves. 
+Ø Emergency/Sick leave will be added after completing the probation period.  
+ 
+v Process of Emergency Leaves  
+Ø The Employee has to apply leave as per the below guidelines:  
+• In case of any emergency/unplanned leave, Employee (By self) has to inform
+   [Chunk 2]: will have appraisal cycle from next month.  
+Ø With your appraisal, you would be entitled to serve the company for at least 6  
+months starting from the effective appraisal month.  
+Ø No resignation will be accepted for 6 months from your appraisal date and doing  
+so will be considered the breach of company appraisal policy where by your 
+appraisal salary (Increment amount) will be forfeit and the amount will be 
+adjusted in Full & Final settlement.  
+Ø If the performance is not up to the mark or in any other case, HR team reserves  
+the rights to postpone your appraisal for specific duration decided by the HR 
+team, which will be communicated to you in advance.  
+ 
+Probation Policy  
+Ø Employee will be on probation for the period of 3 months from the date of 
+joining.  
+Ø Employee is eligible for leaves only after completion of the probation period. 
+During the probation & Training period employee will not be eligible for any 
+type of leave.
+   [Chunk 3]: be treated as leave without pay(LWP) and is also subject to approval.  
+Ø Leave is subject to approval, partially or fully, first by  immediate supervisor and finally 
+by HR, failing to which will treated as leave without pay(LWP).  
+Ø It is solely employee’s responsibility to ensure that leaves are approved from HR & 
+immediate supervisor, before proceeding for leave.  
+Ø If the leave is rejected for any reason and still you avail the leave, the leave will be 
+considered as leave without pay (LWP) and HR team is not abide for any discussion 
+with you.  
+Ø The approved leaves shall be processed in payroll within the criteria of the defined leave  
+rules as per the policy & available leave balance   
+Ø Also, you must inform to your TL before one day ago that you are on leave for 
+the next day(s).   
+  
+  
+   
+MultiQoS Technologies Pvt. Ltd.  P a g e  4 | 7  
+ 
+ 
+  
+  
+ 
+v Provisions of Emergency/Sick Leave
+
+[2026-10-02 13:02:06.207336] GENERATION PROCESS COMPLETED.
+[2026-10-02 13:02:06.207359] FINAL OUTPUT SHOWN: Eligibility for a salary increase is determined through an appraisal cycle. While an appraisal cycle is mentioned, the HR team reserves the right to postpone an appraisal for a specific duration if performance is not up to the mark or in any other case. Therefore, an extended leave might lead to your appraisal being postponed, meaning a salary increase is not automatically guaranteed after one year.
+================================================================================
+
+================================================================================
+[2026-10-02 13:50:14.979905] USER QUESTION: I received an increment today and want to resign next month. What does the policy say?
+
+[2026-10-02 13:50:14.996759] RETRIEVED CONTEXT CHUNKS:
+   [Chunk 1]: Termination Policy  
+Ø In the event of any discrepancy or untrue information found in your candidature 
+or resume or documents submitted, wilful neglect of your duties, breach of trust, 
+gross indiscipline or any other serious dereliction of duties that may be 
+prejudicial to the interests of the company, or poor performance measured by 
+company, the company has the discretion to immediately terminate your services 
+forthwith or with such notice as it deems fit and without any pay whatsoever.  
+Ø You expressly acknowledge and recognize that notice period is a key condition  
+to the employment. Any payment in lieu of notice, shall be as per company 
+policy and as determined by the company in the specific circumstances.  
+Ø In the event of termination, company is not liable to provide any kind of  
+documentation or pay cheque or any settlement and have zero liability with 
+immediate effect.  
+Ø If an employee remains absent from the duty without authorization or any kind
+   [Chunk 2]: covers National Holidays, Days of festivals, and religious interests.   
+MultiQoS Technologies Pvt. Ltd.  P a g e  3 | 7  
+  
+  
+  
+  
+  
+Leave Policy  
+The main objective of the policy is to provide employees with guidelines regarding the 
+company’s approach to employee’s well-being, to manage absence and discourage unplanned/ 
+unauthorized leaves.  
+v Provisions of Planned (Privilege) Leave  
+Ø We always promote planned leave making sure that your work and delegation is well  
+managed before you proceed for leaves.  
+Ø All employees shall be entitled to 12 Planned Leaves as per calendar year.  
+Ø Planned will be credited quarterly. i.e., 3 leaves per 3 months.  
+Ø Unutilized leaves from the first quarter (3 months) will be carried forward in the next 
+quarter and so on.  
+Ø Planned leave will be added after completing the probation period.  
+Ø For availing half day leave, Employee has to complete 4.5 Working hours excluding
+   [Chunk 3]: will have appraisal cycle from next month.  
+Ø With your appraisal, you would be entitled to serve the company for at least 6  
+months starting from the effective appraisal month.  
+Ø No resignation will be accepted for 6 months from your appraisal date and doing  
+so will be considered the breach of company appraisal policy where by your 
+appraisal salary (Increment amount) will be forfeit and the amount will be 
+adjusted in Full & Final settlement.  
+Ø If the performance is not up to the mark or in any other case, HR team reserves  
+the rights to postpone your appraisal for specific duration decided by the HR 
+team, which will be communicated to you in advance.  
+ 
+Probation Policy  
+Ø Employee will be on probation for the period of 3 months from the date of 
+joining.  
+Ø Employee is eligible for leaves only after completion of the probation period. 
+During the probation & Training period employee will not be eligible for any 
+type of leave.
+
+[2026-10-02 13:50:18.737126] GENERATION PROCESS COMPLETED.
+[2026-10-02 13:50:18.737162] FINAL OUTPUT SHOWN: According to the appraisal policy, after receiving an increment, you are entitled to serve the company for at least 6 months starting from the effective appraisal month. If you resign within 6 months of your appraisal date, it will be considered a breach of the company's appraisal policy. In such a scenario, your appraisal salary (increment amount) will be forfeited and adjusted in your Full & Final settlement.
+================================================================================
+
+================================================================================
+[2026-10-02 13:51:13.844806] USER QUESTION: I've resigned but need a day off during my notice period. Can I use my remaining leave balance?
+
+[2026-10-02 13:51:13.860133] RETRIEVED CONTEXT CHUNKS:
+   [Chunk 1]: reasons), then he/she will not get any official documents from the company.  
+Exit Policy  
+Ø In the event of end of employment, one has to write an email to HR which will  
+be considered as resignation. The resignation acceptance is solely management’s 
+decision including the relieving date.  
+Ø Employee MUST serve 2 months of notice period from the day of resignation.  
+Notice period may get extended based on work assignment and handover time 
+required. The final decision will stay with the HR team for the same and 
+employee is abide by the decision.  
+Ø The notice period is compulsory and bound to legal actional in case not followed 
+by employee.  
+Ø There is no provision of any kind of leave during the notice period. The sole  
+purpose of notice period duration is to complete handover process fully to project 
+progress and client deliveries can be executed without any impact.  
+Ø The HR team can also reduce the notice period based on the handover time
+   [Chunk 2]: progress and client deliveries can be executed without any impact.  
+Ø The HR team can also reduce the notice period based on the handover time  
+required. The sole decision remains with HR team.  
+Ø If employee takes any unplanned/emergency or any type of leave in notice  
+period, the notice period will get extended with those many working days and 
+the relieving date will be extended. Any reliving date communicated in prior by 
+the HR team will be revised. 
+Ø The leave eligibility will be recalculated for the employee based on his/her  
+present days. Number of leaves consumed above eligible balance will be 
+deducted on gross salary from the Full and Final settlement.  
+Ø You are expected to handover all the knowledge base documents, code,  
+credentials to company in the notice you serve with company.  
+Ø You should not be accessing any kind of tools, emails, software, project from 
+outside after you have been relieved. Doing so will be considered the breach of
+   [Chunk 3]: covers National Holidays, Days of festivals, and religious interests.   
+MultiQoS Technologies Pvt. Ltd.  P a g e  3 | 7  
+  
+  
+  
+  
+  
+Leave Policy  
+The main objective of the policy is to provide employees with guidelines regarding the 
+company’s approach to employee’s well-being, to manage absence and discourage unplanned/ 
+unauthorized leaves.  
+v Provisions of Planned (Privilege) Leave  
+Ø We always promote planned leave making sure that your work and delegation is well  
+managed before you proceed for leaves.  
+Ø All employees shall be entitled to 12 Planned Leaves as per calendar year.  
+Ø Planned will be credited quarterly. i.e., 3 leaves per 3 months.  
+Ø Unutilized leaves from the first quarter (3 months) will be carried forward in the next 
+quarter and so on.  
+Ø Planned leave will be added after completing the probation period.  
+Ø For availing half day leave, Employee has to complete 4.5 Working hours excluding
+
+[2026-10-02 13:51:17.623870] GENERATION PROCESS COMPLETED.
+[2026-10-02 13:51:17.623895] FINAL OUTPUT SHOWN: According to the exit policy, there is no provision for any kind of leave during the notice period. If an employee takes any unplanned, emergency, or any other type of leave, the notice period will be extended by those working days. Consequently, the relieving date will also be revised. The sole purpose of the notice period is to complete the handover process without impacting project progress and client deliveries.
+================================================================================
+
+================================================================================
+[2026-10-02 13:52:07.656978] USER QUESTION: How long am I expected to keep company-related information confidential after leaving?
+
+[2026-10-02 13:52:07.672974] RETRIEVED CONTEXT CHUNKS:
+   [Chunk 1]: Ø You should not be accessing any kind of tools, emails, software, project from 
+outside after you have been relieved. Doing so will be considered the breach of 
+company policy and you will have to face legal actions.  
+Ø All manuals, literature, systems, projects, documents etc. developed by you, 
+while in company service will at all times deemed to be the sole legal property 
+of the company.  
+Ø You are required to maintain utmost confidentiality and non-discloser in respect 
+of all the matters, reports, operations, project stakeholders - internal or external 
+you may come in contact with during the course of your employment with 
+company and after that for at least 2 years.  
+  
+MultiQoS Technologies Pvt. Ltd.  P a g e  7 | 7  
+ 
+ 
+ 
+ 
+Termination Policy  
+Ø In the event of any discrepancy or untrue information found in your candidature 
+or resume or documents submitted, wilful neglect of your duties, breach of trust,
+   [Chunk 2]: joining.  
+Ø Employee is eligible for leaves only after completion of the probation period. 
+During the probation & Training period employee will not be eligible for any 
+type of leave.  
+Ø If employee’s performance remains unsatisfactory in probation period, his/her  
+services may be terminated.  
+Ø During the period of probation, Employee’s service may be terminated  
+with/without one week’s notice or pay in lieu thereof, by the company, at its sole 
+discretion.  
+ 
+  
+MultiQoS Technologies Pvt. Ltd.  P a g e  6 | 7  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ø However, in case of misconduct or non-compliance of any company policies on 
+your part, your service may be terminated forthwith without any notice period by 
+the company.  
+Ø If the employee will be terminated during probation period (For any above 
+reasons), then he/she will not get any official documents from the company.  
+Exit Policy  
+Ø In the event of end of employment, one has to write an email to HR which will
+   [Chunk 3]: covers National Holidays, Days of festivals, and religious interests.   
+MultiQoS Technologies Pvt. Ltd.  P a g e  3 | 7  
+  
+  
+  
+  
+  
+Leave Policy  
+The main objective of the policy is to provide employees with guidelines regarding the 
+company’s approach to employee’s well-being, to manage absence and discourage unplanned/ 
+unauthorized leaves.  
+v Provisions of Planned (Privilege) Leave  
+Ø We always promote planned leave making sure that your work and delegation is well  
+managed before you proceed for leaves.  
+Ø All employees shall be entitled to 12 Planned Leaves as per calendar year.  
+Ø Planned will be credited quarterly. i.e., 3 leaves per 3 months.  
+Ø Unutilized leaves from the first quarter (3 months) will be carried forward in the next 
+quarter and so on.  
+Ø Planned leave will be added after completing the probation period.  
+Ø For availing half day leave, Employee has to complete 4.5 Working hours excluding
+
+[2026-10-02 13:52:11.159123] GENERATION PROCESS COMPLETED.
+[2026-10-02 13:52:11.159155] FINAL OUTPUT SHOWN: You are required to maintain utmost confidentiality and non-disclosure regarding all company matters, reports, operations, and project stakeholders. This obligation applies to information you encountered during your employment and continues for at least two years after your departure. This ensures the protection of sensitive company data.
+================================================================================
+
+================================================================================
+[2026-10-02 13:52:48.677093] USER QUESTION: An employee stopped coming to work and hasn't informed HR for several days. At what point can this be treated as abandoning the job?
+
+[2026-10-02 13:52:48.692781] RETRIEVED CONTEXT CHUNKS:
+   [Chunk 1]: documentation or pay cheque or any settlement and have zero liability with 
+immediate effect.  
+Ø If an employee remains absent from the duty without authorization or any kind 
+of intimation to HR team for 3 consecutive days, it will be presumed that the 
+employee has abandoned his/her services.  
+Ø In such cases, the company will have the right to terminate the employee’s 
+service and strike off his/her name from the company. In such case, above 
+termination policy will be applicable.  
+Human resources functions owns this policy. In case of any dispute, on the policy HR or 
+Management should be contacted and the decision will be binding. For any discrepancy 
+or dispute, management’s decision will be the final one.  
+Management reserves the right to change the policy without prior notice. Any 
+deviation/exception needs to be approved by the decision-making authority.  
+** This document is intellectual property of MultiQoS Technologies Pvt Ltd. This is strictly
+   [Chunk 2]: reasons), then he/she will not get any official documents from the company.  
+Exit Policy  
+Ø In the event of end of employment, one has to write an email to HR which will  
+be considered as resignation. The resignation acceptance is solely management’s 
+decision including the relieving date.  
+Ø Employee MUST serve 2 months of notice period from the day of resignation.  
+Notice period may get extended based on work assignment and handover time 
+required. The final decision will stay with the HR team for the same and 
+employee is abide by the decision.  
+Ø The notice period is compulsory and bound to legal actional in case not followed 
+by employee.  
+Ø There is no provision of any kind of leave during the notice period. The sole  
+purpose of notice period duration is to complete handover process fully to project 
+progress and client deliveries can be executed without any impact.  
+Ø The HR team can also reduce the notice period based on the handover time
+   [Chunk 3]: progress and client deliveries can be executed without any impact.  
+Ø The HR team can also reduce the notice period based on the handover time  
+required. The sole decision remains with HR team.  
+Ø If employee takes any unplanned/emergency or any type of leave in notice  
+period, the notice period will get extended with those many working days and 
+the relieving date will be extended. Any reliving date communicated in prior by 
+the HR team will be revised. 
+Ø The leave eligibility will be recalculated for the employee based on his/her  
+present days. Number of leaves consumed above eligible balance will be 
+deducted on gross salary from the Full and Final settlement.  
+Ø You are expected to handover all the knowledge base documents, code,  
+credentials to company in the notice you serve with company.  
+Ø You should not be accessing any kind of tools, emails, software, project from 
+outside after you have been relieved. Doing so will be considered the breach of
+
+[2026-10-02 13:52:50.796590] GENERATION PROCESS COMPLETED.
+[2026-10-02 13:52:50.796615] FINAL OUTPUT SHOWN: If an employee is absent from duty without authorization or informing the HR team for three consecutive days, it will be presumed that the employee has abandoned their services. In such cases, the company has the right to terminate the employee's service and remove their name from the company records. The termination policy will then be applicable.
+================================================================================
+
+================================================================================
+[2026-10-02 13:53:51.141177] USER QUESTION: I was late twice this month, then missed the required daily hours on two other occasions. Are these treated as the same type of violation?
+
+[2026-10-02 13:53:51.158879] RETRIEVED CONTEXT CHUNKS:
+   [Chunk 1]: MultiQoS Technologies Pvt. Ltd.  P a g e  1 | 7    
+ 
+MultiQoS Technologies Pvt. Ltd.  P a g e  2 | 7  
+  
+  
+  
+  
+  
+  
+  
+Office Timings and Attendance  
+  
+Company believes and promotes a disciplinary life whether it is personal or professional. 
+Discipline is a way of life, where one tries to be on time and live in a systematic way.  
+ 
+v Office Timings:  
+Ø Office timing is 10.00 AM to 7.30 PM  
+Ø Here, 10:00 AM to 10:15 AM is Flexi time to accommodate delay unexpected delays in 
+reaching the office.  
+Ø You must punch in to office before/by 10.00 AM.  
+Ø 3 times late coming after 10.00 AM is allowed. Coming late fourth time and onwards will 
+be considered half day leave without pay (LWP) for each of such incident.  
+  Ex. If Punch – in time is later than 10:00 AM three times in a month No LWP 
+assigner. But If Punch-In time is later than 10:00 AM fourth time in a month he/she 
+will be assigned LWP and if it us fifth time than additional 0.5 LWP and so on.
+   [Chunk 2]: thrice, No LWP will be assigned. If working hours are not completed the fourth time in 
+a month, he/she will be assigned 0.5 LWP, and if it is fifth time than an additional 0.5 
+LWP and so on.  
+  
+Note: It is everyone’s individual responsibility to make sure they do manage their working 
+hours on daily basis.  
+  
+Keeping in mind the work-life balance and employee well-being, the company is providing all 
+Saturday and Sunday OFF i.e., 5 Days working per week. Looking at business need, company 
+reserves the right to keep any of the Saturdays as a working day for all or a group of people. for 
+that company will compensate their working days as well. This is expected to happen in 
+exceptional cases only.  
+  
+Company also has provision for 12 days of additional holidays during the calendar year which 
+covers National Holidays, Days of festivals, and religious interests.   
+MultiQoS Technologies Pvt. Ltd.  P a g e  3 | 7  
+  
+  
+  
+  
+  
+Leave Policy
+   [Chunk 3]: assigner. But If Punch-In time is later than 10:00 AM fourth time in a month he/she 
+will be assigned LWP and if it us fifth time than additional 0.5 LWP and so on.  
+Ø Shift timing can be changed either on a permanent or on a temporary basis depending on 
+the work requirements. HR team will take decision of your shift based on multiple 
+parameters like profile, responsibility, client etc. 
+ 
+v Breaks:  
+Ø Lunch break is 45 mins (1:15 PM to 2:00 PM)  
+Ø One additional break is 15 mins i.e. from 5:15 PM to 5:30 PM. 
+  
+v Working Hours:  
+Ø You must clock in 8 hours 30 mins every day i.e. you must have 8 hours and 30 mins as 
+your working hours.  
+Ø If your working hours (8 hours 30 mins on the development floor) are not completed 
+thrice, No LWP will be assigned. If working hours are not completed the fourth time in 
+a month, he/she will be assigned 0.5 LWP, and if it is fifth time than an additional 0.5 
+LWP and so on.
+
+[2026-10-02 13:53:56.829914] GENERATION PROCESS COMPLETED.
+[2026-10-02 13:53:56.829939] FINAL OUTPUT SHOWN: No, being late and not completing the required daily hours are treated as distinct types of violations. The company's policy outlines separate thresholds for each: three instances of late coming are allowed, and similarly, working hours not being completed thrice will not result in Leave Without Pay (LWP). Each type of violation is counted independently, meaning your two late arrivals and two instances of not completing hours are not combined. Therefore, based on the context, neither of these situations would currently result in an LWP assignment.
+================================================================================
+
+================================================================================
+[2026-10-02 13:54:39.916593] USER QUESTION: I have unused leave from the previous quarter and want to take three days off next month. How should I request it?
+
+[2026-10-02 13:54:39.934349] RETRIEVED CONTEXT CHUNKS:
+   [Chunk 1]: covers National Holidays, Days of festivals, and religious interests.   
+MultiQoS Technologies Pvt. Ltd.  P a g e  3 | 7  
+  
+  
+  
+  
+  
+Leave Policy  
+The main objective of the policy is to provide employees with guidelines regarding the 
+company’s approach to employee’s well-being, to manage absence and discourage unplanned/ 
+unauthorized leaves.  
+v Provisions of Planned (Privilege) Leave  
+Ø We always promote planned leave making sure that your work and delegation is well  
+managed before you proceed for leaves.  
+Ø All employees shall be entitled to 12 Planned Leaves as per calendar year.  
+Ø Planned will be credited quarterly. i.e., 3 leaves per 3 months.  
+Ø Unutilized leaves from the first quarter (3 months) will be carried forward in the next 
+quarter and so on.  
+Ø Planned leave will be added after completing the probation period.  
+Ø For availing half day leave, Employee has to complete 4.5 Working hours excluding
+   [Chunk 2]: quarter and so on.  
+Ø Planned leave will be added after completing the probation period.  
+Ø For availing half day leave, Employee has to complete 4.5 Working hours excluding  
+breaks. i.e., For first half leave timing is 10:00 AM to 2:30 PM and for second half leave 
+timing is 3:00 PM to 7:30 PM.  
+  
+v Process of Planned Leave  
+  
+Ø The employee has to apply leave as per the below guidelines:  
+§ The leave application has to be send in mail, 5 working days in advance for 
+leave duration of 2 days or lesser, with specific reason clearly mentioned.  
+§ The leave application has to send in mail, 12 working days in advance for leave  
+duration of 3 days and above, with specific reason clearly mentioned.  
+§ Leaves applied and availed which are not in line with guidelines of above points will  
+be treated as leave without pay(LWP) and is also subject to approval.  
+Ø Leave is subject to approval, partially or fully, first by  immediate supervisor and finally
+   [Chunk 3]: the next day(s).   
+  
+  
+   
+MultiQoS Technologies Pvt. Ltd.  P a g e  4 | 7  
+ 
+ 
+  
+  
+ 
+v Provisions of Emergency/Sick Leave  
+Ø We always hope that all employees will take care of their Health. So, the Company is 
+adding Emergency/Sick leave. 
+Ø All employees shall be entitled to 4 Emergency/Sick leave as per calendar year.  
+Ø Emergency/Sick leave will be credited quarterly. i.e. 1 leave per 3 months.  
+Ø Unutilized leaves from the first quarter (3 months) will be carried forward in the next 
+quarter and so on.  
+Ø Employees will take one emergency/sick leave per quarter and take another 
+emergency/sick leave in the same quarter will count as LWP leaves. 
+Ø Emergency/Sick leave will be added after completing the probation period.  
+ 
+v Process of Emergency Leaves  
+Ø The Employee has to apply leave as per the below guidelines:  
+• In case of any emergency/unplanned leave, Employee (By self) has to inform
+
+[2026-10-02 13:54:43.233055] GENERATION PROCESS COMPLETED.
+[2026-10-02 13:54:43.233079] FINAL OUTPUT SHOWN: Unutilized planned leaves from previous quarters can be carried forward. To request three days of planned leave, you must send a leave application via email 12 working days in advance. Ensure you clearly mention the specific reason for your leave in the application. All leave requests are subject to approval by your immediate supervisor and finally by the company.
+================================================================================
+
+================================================================================
+[2026-10-02 13:55:43.105949] USER QUESTION: An employee was terminated during probation because of misconduct. Are they entitled to receive official company documents afterward?
+
+[2026-10-02 13:55:43.123416] RETRIEVED CONTEXT CHUNKS:
+   [Chunk 1]: joining.  
+Ø Employee is eligible for leaves only after completion of the probation period. 
+During the probation & Training period employee will not be eligible for any 
+type of leave.  
+Ø If employee’s performance remains unsatisfactory in probation period, his/her  
+services may be terminated.  
+Ø During the period of probation, Employee’s service may be terminated  
+with/without one week’s notice or pay in lieu thereof, by the company, at its sole 
+discretion.  
+ 
+  
+MultiQoS Technologies Pvt. Ltd.  P a g e  6 | 7  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ø However, in case of misconduct or non-compliance of any company policies on 
+your part, your service may be terminated forthwith without any notice period by 
+the company.  
+Ø If the employee will be terminated during probation period (For any above 
+reasons), then he/she will not get any official documents from the company.  
+Exit Policy  
+Ø In the event of end of employment, one has to write an email to HR which will
+   [Chunk 2]: Termination Policy  
+Ø In the event of any discrepancy or untrue information found in your candidature 
+or resume or documents submitted, wilful neglect of your duties, breach of trust, 
+gross indiscipline or any other serious dereliction of duties that may be 
+prejudicial to the interests of the company, or poor performance measured by 
+company, the company has the discretion to immediately terminate your services 
+forthwith or with such notice as it deems fit and without any pay whatsoever.  
+Ø You expressly acknowledge and recognize that notice period is a key condition  
+to the employment. Any payment in lieu of notice, shall be as per company 
+policy and as determined by the company in the specific circumstances.  
+Ø In the event of termination, company is not liable to provide any kind of  
+documentation or pay cheque or any settlement and have zero liability with 
+immediate effect.  
+Ø If an employee remains absent from the duty without authorization or any kind
+   [Chunk 3]: documentation or pay cheque or any settlement and have zero liability with 
+immediate effect.  
+Ø If an employee remains absent from the duty without authorization or any kind 
+of intimation to HR team for 3 consecutive days, it will be presumed that the 
+employee has abandoned his/her services.  
+Ø In such cases, the company will have the right to terminate the employee’s 
+service and strike off his/her name from the company. In such case, above 
+termination policy will be applicable.  
+Human resources functions owns this policy. In case of any dispute, on the policy HR or 
+Management should be contacted and the decision will be binding. For any discrepancy 
+or dispute, management’s decision will be the final one.  
+Management reserves the right to change the policy without prior notice. Any 
+deviation/exception needs to be approved by the decision-making authority.  
+** This document is intellectual property of MultiQoS Technologies Pvt Ltd. This is strictly
+
+[2026-10-02 13:55:45.607603] GENERATION PROCESS COMPLETED.
+[2026-10-02 13:55:45.607636] FINAL OUTPUT SHOWN: No, an employee terminated during probation due to misconduct is not entitled to receive official company documents afterward. The policy explicitly states that if an employee is terminated during the probation period for any of the outlined reasons, they will not receive any official documents from the company. This includes termination due to misconduct or non-compliance with company policies.
+================================================================================
+
+================================================================================
+[2026-10-02 13:56:32.858744] USER QUESTION: Someone submitted false information in their resume and the company discovered it after hiring. What does the policy permit the company to do?
+
+[2026-10-02 13:56:32.873041] RETRIEVED CONTEXT CHUNKS:
+   [Chunk 1]: deviation/exception needs to be approved by the decision-making authority.  
+** This document is intellectual property of MultiQoS Technologies Pvt Ltd. This is strictly 
+confidential and not to be disclosed anywhere. The policy is one to on between company and 
+employees. Copying the policy or showing/sharing/discussing outside the office premises attracts 
+legal action.
+   [Chunk 2]: Ø You should not be accessing any kind of tools, emails, software, project from 
+outside after you have been relieved. Doing so will be considered the breach of 
+company policy and you will have to face legal actions.  
+Ø All manuals, literature, systems, projects, documents etc. developed by you, 
+while in company service will at all times deemed to be the sole legal property 
+of the company.  
+Ø You are required to maintain utmost confidentiality and non-discloser in respect 
+of all the matters, reports, operations, project stakeholders - internal or external 
+you may come in contact with during the course of your employment with 
+company and after that for at least 2 years.  
+  
+MultiQoS Technologies Pvt. Ltd.  P a g e  7 | 7  
+ 
+ 
+ 
+ 
+Termination Policy  
+Ø In the event of any discrepancy or untrue information found in your candidature 
+or resume or documents submitted, wilful neglect of your duties, breach of trust,
+   [Chunk 3]: documentation or pay cheque or any settlement and have zero liability with 
+immediate effect.  
+Ø If an employee remains absent from the duty without authorization or any kind 
+of intimation to HR team for 3 consecutive days, it will be presumed that the 
+employee has abandoned his/her services.  
+Ø In such cases, the company will have the right to terminate the employee’s 
+service and strike off his/her name from the company. In such case, above 
+termination policy will be applicable.  
+Human resources functions owns this policy. In case of any dispute, on the policy HR or 
+Management should be contacted and the decision will be binding. For any discrepancy 
+or dispute, management’s decision will be the final one.  
+Management reserves the right to change the policy without prior notice. Any 
+deviation/exception needs to be approved by the decision-making authority.  
+** This document is intellectual property of MultiQoS Technologies Pvt Ltd. This is strictly
+
+[2026-10-02 13:56:37.413261] GENERATION PROCESS COMPLETED.
+[2026-10-02 13:56:37.413286] FINAL OUTPUT SHOWN: If untrue information is discovered in an employee's resume or submitted documents after hiring, the company's policy permits action. In such an event, the company will have zero liability with immediate effect concerning any pay cheque or settlement. This indicates that the company can terminate the employee without further financial obligations.
+================================================================================
+
+================================================================================
+[2026-10-02 13:57:28.717067] USER QUESTION: I've completed exactly one year with the company, but I had an extended leave. Am I automatically eligible for a salary increase?
+
+[2026-10-02 13:57:28.734494] RETRIEVED CONTEXT CHUNKS:
+   [Chunk 1]: the next day(s).   
+  
+  
+   
+MultiQoS Technologies Pvt. Ltd.  P a g e  4 | 7  
+ 
+ 
+  
+  
+ 
+v Provisions of Emergency/Sick Leave  
+Ø We always hope that all employees will take care of their Health. So, the Company is 
+adding Emergency/Sick leave. 
+Ø All employees shall be entitled to 4 Emergency/Sick leave as per calendar year.  
+Ø Emergency/Sick leave will be credited quarterly. i.e. 1 leave per 3 months.  
+Ø Unutilized leaves from the first quarter (3 months) will be carried forward in the next 
+quarter and so on.  
+Ø Employees will take one emergency/sick leave per quarter and take another 
+emergency/sick leave in the same quarter will count as LWP leaves. 
+Ø Emergency/Sick leave will be added after completing the probation period.  
+ 
+v Process of Emergency Leaves  
+Ø The Employee has to apply leave as per the below guidelines:  
+• In case of any emergency/unplanned leave, Employee (By self) has to inform
+   [Chunk 2]: will have appraisal cycle from next month.  
+Ø With your appraisal, you would be entitled to serve the company for at least 6  
+months starting from the effective appraisal month.  
+Ø No resignation will be accepted for 6 months from your appraisal date and doing  
+so will be considered the breach of company appraisal policy where by your 
+appraisal salary (Increment amount) will be forfeit and the amount will be 
+adjusted in Full & Final settlement.  
+Ø If the performance is not up to the mark or in any other case, HR team reserves  
+the rights to postpone your appraisal for specific duration decided by the HR 
+team, which will be communicated to you in advance.  
+ 
+Probation Policy  
+Ø Employee will be on probation for the period of 3 months from the date of 
+joining.  
+Ø Employee is eligible for leaves only after completion of the probation period. 
+During the probation & Training period employee will not be eligible for any 
+type of leave.
+   [Chunk 3]: be treated as leave without pay(LWP) and is also subject to approval.  
+Ø Leave is subject to approval, partially or fully, first by  immediate supervisor and finally 
+by HR, failing to which will treated as leave without pay(LWP).  
+Ø It is solely employee’s responsibility to ensure that leaves are approved from HR & 
+immediate supervisor, before proceeding for leave.  
+Ø If the leave is rejected for any reason and still you avail the leave, the leave will be 
+considered as leave without pay (LWP) and HR team is not abide for any discussion 
+with you.  
+Ø The approved leaves shall be processed in payroll within the criteria of the defined leave  
+rules as per the policy & available leave balance   
+Ø Also, you must inform to your TL before one day ago that you are on leave for 
+the next day(s).   
+  
+  
+   
+MultiQoS Technologies Pvt. Ltd.  P a g e  4 | 7  
+ 
+ 
+  
+  
+ 
+v Provisions of Emergency/Sick Leave
+
+[2026-10-02 13:57:32.544948] GENERATION PROCESS COMPLETED.
+[2026-10-02 13:57:32.544976] FINAL OUTPUT SHOWN: The provided context does not state that completing one year automatically makes an employee eligible for a salary increase. While there is an appraisal cycle, the HR team reserves the right to postpone an appraisal for a specific duration if performance is not up to the mark or in any other case. This postponement would be communicated in advance. Therefore, eligibility for a salary increase is not guaranteed and can be subject to HR's discretion.
+================================================================================
+
+================================================================================
+[2026-10-02 14:42:55.634363] USER QUESTION: If I reach the office at 10:10 AM, is that still within the allowed arrival window?
+
+[2026-10-02 14:42:55.656049] RETRIEVED CONTEXT CHUNKS:
+   [Chunk 1]: v Process of Emergency Leaves  
+Ø The Employee has to apply leave as per the below guidelines:  
+• In case of any emergency/unplanned leave, Employee (By self) has to inform 
+his/her immediate supervisor by phone call only before the day’s reporting 
+hour.(For example, if shift timing is from 10:00 AM to 7:30 PM, employee 
+need to inform before 10:00 AM).  
+• If any employee does not inform as mentioned above or no update, then 
+leave will be considered as LWP. HR team is not abide to have any 
+discussion with you for the same.  
+• Employees has to make sure that leave application email should be sent to 
+immediate supervisor and HR after availing an emergency leave. If leave 
+application email is not sent, then it will be counted as LWP.   
+v General Rules for Leave  
+Ø In case leaves wrapping up the weekend, number of off days in that weekend will  
+also be considered as part of leave count (Sandwich leaves).
+   [Chunk 2]: MultiQoS Technologies Pvt. Ltd.  P a g e  1 | 7    
+ 
+MultiQoS Technologies Pvt. Ltd.  P a g e  2 | 7  
+  
+  
+  
+  
+  
+  
+  
+Office Timings and Attendance  
+  
+Company believes and promotes a disciplinary life whether it is personal or professional. 
+Discipline is a way of life, where one tries to be on time and live in a systematic way.  
+ 
+v Office Timings:  
+Ø Office timing is 10.00 AM to 7.30 PM  
+Ø Here, 10:00 AM to 10:15 AM is Flexi time to accommodate delay unexpected delays in 
+reaching the office.  
+Ø You must punch in to office before/by 10.00 AM.  
+Ø 3 times late coming after 10.00 AM is allowed. Coming late fourth time and onwards will 
+be considered half day leave without pay (LWP) for each of such incident.  
+  Ex. If Punch – in time is later than 10:00 AM three times in a month No LWP 
+assigner. But If Punch-In time is later than 10:00 AM fourth time in a month he/she 
+will be assigned LWP and if it us fifth time than additional 0.5 LWP and so on.
+   [Chunk 3]: assigner. But If Punch-In time is later than 10:00 AM fourth time in a month he/she 
+will be assigned LWP and if it us fifth time than additional 0.5 LWP and so on.  
+Ø Shift timing can be changed either on a permanent or on a temporary basis depending on 
+the work requirements. HR team will take decision of your shift based on multiple 
+parameters like profile, responsibility, client etc. 
+ 
+v Breaks:  
+Ø Lunch break is 45 mins (1:15 PM to 2:00 PM)  
+Ø One additional break is 15 mins i.e. from 5:15 PM to 5:30 PM. 
+  
+v Working Hours:  
+Ø You must clock in 8 hours 30 mins every day i.e. you must have 8 hours and 30 mins as 
+your working hours.  
+Ø If your working hours (8 hours 30 mins on the development floor) are not completed 
+thrice, No LWP will be assigned. If working hours are not completed the fourth time in 
+a month, he/she will be assigned 0.5 LWP, and if it is fifth time than an additional 0.5 
+LWP and so on.
+
+[2026-10-02 14:43:02.654875] GENERATION PROCESS COMPLETED.
+[2026-10-02 14:43:02.654899] FINAL OUTPUT SHOWN: Yes, arriving at 10:10 AM is within the designated flexi time, which is from 10:00 AM to 10:15 AM. However, employees are required to punch in by 10:00 AM, so arriving at 10:10 AM is considered late. You are allowed to be late after 10:00 AM three times in a month without incurring a half-day leave without pay. If you are late a fourth time or more, it will be considered a half-day leave without pay for each incident.
+================================================================================
+
+================================================================================
+[2026-10-02 14:43:13.422164] USER QUESTION: I've completed exactly one year with the company, but I had an extended leave. Am I automatically eligible for a salary increase?
+
+[2026-10-02 14:43:13.438427] RETRIEVED CONTEXT CHUNKS:
+   [Chunk 1]: the next day(s).   
+  
+  
+   
+MultiQoS Technologies Pvt. Ltd.  P a g e  4 | 7  
+ 
+ 
+  
+  
+ 
+v Provisions of Emergency/Sick Leave  
+Ø We always hope that all employees will take care of their Health. So, the Company is 
+adding Emergency/Sick leave. 
+Ø All employees shall be entitled to 4 Emergency/Sick leave as per calendar year.  
+Ø Emergency/Sick leave will be credited quarterly. i.e. 1 leave per 3 months.  
+Ø Unutilized leaves from the first quarter (3 months) will be carried forward in the next 
+quarter and so on.  
+Ø Employees will take one emergency/sick leave per quarter and take another 
+emergency/sick leave in the same quarter will count as LWP leaves. 
+Ø Emergency/Sick leave will be added after completing the probation period.  
+ 
+v Process of Emergency Leaves  
+Ø The Employee has to apply leave as per the below guidelines:  
+• In case of any emergency/unplanned leave, Employee (By self) has to inform
+   [Chunk 2]: will have appraisal cycle from next month.  
+Ø With your appraisal, you would be entitled to serve the company for at least 6  
+months starting from the effective appraisal month.  
+Ø No resignation will be accepted for 6 months from your appraisal date and doing  
+so will be considered the breach of company appraisal policy where by your 
+appraisal salary (Increment amount) will be forfeit and the amount will be 
+adjusted in Full & Final settlement.  
+Ø If the performance is not up to the mark or in any other case, HR team reserves  
+the rights to postpone your appraisal for specific duration decided by the HR 
+team, which will be communicated to you in advance.  
+ 
+Probation Policy  
+Ø Employee will be on probation for the period of 3 months from the date of 
+joining.  
+Ø Employee is eligible for leaves only after completion of the probation period. 
+During the probation & Training period employee will not be eligible for any 
+type of leave.
+   [Chunk 3]: be treated as leave without pay(LWP) and is also subject to approval.  
+Ø Leave is subject to approval, partially or fully, first by  immediate supervisor and finally 
+by HR, failing to which will treated as leave without pay(LWP).  
+Ø It is solely employee’s responsibility to ensure that leaves are approved from HR & 
+immediate supervisor, before proceeding for leave.  
+Ø If the leave is rejected for any reason and still you avail the leave, the leave will be 
+considered as leave without pay (LWP) and HR team is not abide for any discussion 
+with you.  
+Ø The approved leaves shall be processed in payroll within the criteria of the defined leave  
+rules as per the policy & available leave balance   
+Ø Also, you must inform to your TL before one day ago that you are on leave for 
+the next day(s).   
+  
+  
+   
+MultiQoS Technologies Pvt. Ltd.  P a g e  4 | 7  
+ 
+ 
+  
+  
+ 
+v Provisions of Emergency/Sick Leave
+
+[2026-10-02 14:43:18.972688] GENERATION PROCESS COMPLETED.
+[2026-10-02 14:43:18.972731] FINAL OUTPUT SHOWN: Based on the provided context, completing one year with the company does not automatically guarantee eligibility for a salary increase. Appraisals are part of a cycle, and the HR team reserves the right to postpone an appraisal for a specific duration if performance is not up to the mark or in any other case. Therefore, eligibility for a salary increase is not automatic and could potentially be affected by factors such as an extended leave.
+================================================================================
+
+================================================================================
+[2026-10-02 14:43:32.678554] USER QUESTION: I have unused leave from the previous quarter and want to take three days off next month. How should I request it?
+
+[2026-10-02 14:43:32.695846] RETRIEVED CONTEXT CHUNKS:
+   [Chunk 1]: covers National Holidays, Days of festivals, and religious interests.   
+MultiQoS Technologies Pvt. Ltd.  P a g e  3 | 7  
+  
+  
+  
+  
+  
+Leave Policy  
+The main objective of the policy is to provide employees with guidelines regarding the 
+company’s approach to employee’s well-being, to manage absence and discourage unplanned/ 
+unauthorized leaves.  
+v Provisions of Planned (Privilege) Leave  
+Ø We always promote planned leave making sure that your work and delegation is well  
+managed before you proceed for leaves.  
+Ø All employees shall be entitled to 12 Planned Leaves as per calendar year.  
+Ø Planned will be credited quarterly. i.e., 3 leaves per 3 months.  
+Ø Unutilized leaves from the first quarter (3 months) will be carried forward in the next 
+quarter and so on.  
+Ø Planned leave will be added after completing the probation period.  
+Ø For availing half day leave, Employee has to complete 4.5 Working hours excluding
+   [Chunk 2]: quarter and so on.  
+Ø Planned leave will be added after completing the probation period.  
+Ø For availing half day leave, Employee has to complete 4.5 Working hours excluding  
+breaks. i.e., For first half leave timing is 10:00 AM to 2:30 PM and for second half leave 
+timing is 3:00 PM to 7:30 PM.  
+  
+v Process of Planned Leave  
+  
+Ø The employee has to apply leave as per the below guidelines:  
+§ The leave application has to be send in mail, 5 working days in advance for 
+leave duration of 2 days or lesser, with specific reason clearly mentioned.  
+§ The leave application has to send in mail, 12 working days in advance for leave  
+duration of 3 days and above, with specific reason clearly mentioned.  
+§ Leaves applied and availed which are not in line with guidelines of above points will  
+be treated as leave without pay(LWP) and is also subject to approval.  
+Ø Leave is subject to approval, partially or fully, first by  immediate supervisor and finally
+   [Chunk 3]: the next day(s).   
+  
+  
+   
+MultiQoS Technologies Pvt. Ltd.  P a g e  4 | 7  
+ 
+ 
+  
+  
+ 
+v Provisions of Emergency/Sick Leave  
+Ø We always hope that all employees will take care of their Health. So, the Company is 
+adding Emergency/Sick leave. 
+Ø All employees shall be entitled to 4 Emergency/Sick leave as per calendar year.  
+Ø Emergency/Sick leave will be credited quarterly. i.e. 1 leave per 3 months.  
+Ø Unutilized leaves from the first quarter (3 months) will be carried forward in the next 
+quarter and so on.  
+Ø Employees will take one emergency/sick leave per quarter and take another 
+emergency/sick leave in the same quarter will count as LWP leaves. 
+Ø Emergency/Sick leave will be added after completing the probation period.  
+ 
+v Process of Emergency Leaves  
+Ø The Employee has to apply leave as per the below guidelines:  
+• In case of any emergency/unplanned leave, Employee (By self) has to inform
+
+[2026-10-02 14:43:35.962941] GENERATION PROCESS COMPLETED.
+[2026-10-02 14:43:35.962965] FINAL OUTPUT SHOWN: Unutilized planned leaves from previous quarters will be carried forward. To request three days of planned leave, you must send a leave application via email 12 working days in advance, clearly stating the specific reason. This application is subject to approval, initially by your immediate supervisor.
+================================================================================
+
+================================================================================
+[2026-10-02 14:43:46.974454] USER QUESTION: Someone submitted false information in their resume and the company discovered it after hiring. What does the policy permit the company to do?
+
+[2026-10-02 14:43:46.996478] RETRIEVED CONTEXT CHUNKS:
+   [Chunk 1]: deviation/exception needs to be approved by the decision-making authority.  
+** This document is intellectual property of MultiQoS Technologies Pvt Ltd. This is strictly 
+confidential and not to be disclosed anywhere. The policy is one to on between company and 
+employees. Copying the policy or showing/sharing/discussing outside the office premises attracts 
+legal action.
+   [Chunk 2]: Ø You should not be accessing any kind of tools, emails, software, project from 
+outside after you have been relieved. Doing so will be considered the breach of 
+company policy and you will have to face legal actions.  
+Ø All manuals, literature, systems, projects, documents etc. developed by you, 
+while in company service will at all times deemed to be the sole legal property 
+of the company.  
+Ø You are required to maintain utmost confidentiality and non-discloser in respect 
+of all the matters, reports, operations, project stakeholders - internal or external 
+you may come in contact with during the course of your employment with 
+company and after that for at least 2 years.  
+  
+MultiQoS Technologies Pvt. Ltd.  P a g e  7 | 7  
+ 
+ 
+ 
+ 
+Termination Policy  
+Ø In the event of any discrepancy or untrue information found in your candidature 
+or resume or documents submitted, wilful neglect of your duties, breach of trust,
+   [Chunk 3]: documentation or pay cheque or any settlement and have zero liability with 
+immediate effect.  
+Ø If an employee remains absent from the duty without authorization or any kind 
+of intimation to HR team for 3 consecutive days, it will be presumed that the 
+employee has abandoned his/her services.  
+Ø In such cases, the company will have the right to terminate the employee’s 
+service and strike off his/her name from the company. In such case, above 
+termination policy will be applicable.  
+Human resources functions owns this policy. In case of any dispute, on the policy HR or 
+Management should be contacted and the decision will be binding. For any discrepancy 
+or dispute, management’s decision will be the final one.  
+Management reserves the right to change the policy without prior notice. Any 
+deviation/exception needs to be approved by the decision-making authority.  
+** This document is intellectual property of MultiQoS Technologies Pvt Ltd. This is strictly
+
+[2026-10-02 14:43:49.289522] GENERATION PROCESS COMPLETED.
+[2026-10-02 14:43:49.289549] FINAL OUTPUT SHOWN: The policy permits MultiQoS Technologies Pvt. Ltd. to take action if any discrepancy or untrue information is found in a candidate's resume or submitted documents. In such an event, the company has the right to terminate the employee's service. This action falls under the company's termination policy.
+================================================================================
+
